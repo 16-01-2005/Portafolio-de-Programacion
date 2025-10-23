@@ -76,6 +76,5 @@
 
 ---
 
-➡️ [Ir a la Unidad 2](Unidad2.md)  
-🏠 [Volver al inicio](README.md)
+🏠 [Portafolio](index.md)
 
