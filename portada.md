@@ -1,5 +1,5 @@
 <!-- Imagen superior a la derecha -->
-<img src="img/logo.png" alt="Logo del Portafolio" width="180" style="float: right; margin-left: 20px; border-radius: 10px;">
+<img src="logo-unl-HC-01-e1651758359420.png" alt="Logo del Portafolio" width="180" style="float: right; margin-left: 20px; border-radius: 10px;">
 
 <div align="center">
 
