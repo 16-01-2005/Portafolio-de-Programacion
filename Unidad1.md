@@ -39,19 +39,22 @@
      - `strcpy()`, `strcat()`, `strcmp()`, `strlen()`, `strstr()`.  
    - Ejemplo simple:  
      ```c
-     #include <stdio.h>
-     #include <string.h>
+     #include <stdio.h>  
+#include <strings.h>
+#include <stdlib.h>
 
-     int main() {
-         char nombre[50];
-         printf("Ingrese su nombre: ");
-         fgets(nombre, sizeof(nombre), stdin);
+int main(){
 
-         printf("Longitud del nombre: %lu\n", strlen(nombre));
-         printf("¡Hola, %s!\n", nombre);
+    char nombresCompletos[20];
 
-         return 0;
-     }
+    printf("Ingrese sus nombres completos:\n");
+    scanf("%[^\n]", nombresCompletos);
+    getchar();
+    printf("Sus nombres completos ingresados son: %s\n", nombresCompletos);
+   
+    
+    return 0;
+}
      ```
 
 ---
