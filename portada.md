@@ -25,7 +25,7 @@
 ---
 
 <!-- Imagen inferior a la izquierda -->
-<img src="img/portada.jpg" alt="Portada inferior del Portafolio" width="200" style="float: left; margin-right: 20px; margin-top: 30px; border-radius: 10px;">
+<img src="img/portada.jpg" alt="482029903_1186622316352564_5499646885099166129_n.jpg" width="200" style="float: left; margin-right: 20px; margin-top: 30px; border-radius: 10px;">
 
 
 
