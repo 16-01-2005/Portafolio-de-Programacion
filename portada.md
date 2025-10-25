@@ -20,7 +20,7 @@
 ### 🔗 **Accede al Portafolio Completo**  
 [👉 Entrar al Portafolio](index.md)
 
-<img src="" alt="Portada del Portafolio" width="600">
+<img src="482029903_1186622316352564_5499646885099166129_n.jpg" alt="Portada del Portafolio" width="600">
 
 </div>
 
