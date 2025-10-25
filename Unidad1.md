@@ -38,23 +38,23 @@
    - Concatenación, copia y comparación con funciones:  
      - `strcpy()`, `strcat()`, `strcmp()`, `strlen()`, `strstr()`.  
    - Ejemplo simple:  
-     ```c
+     ```
      #include <stdio.h>  
-#include <strings.h>
-#include <stdlib.h>
+      #include <strings.h>
+      #include <stdlib.h>
 
-int main(){
+      int main(){
 
-    char nombresCompletos[20];
+       char nombresCompletos[20];
 
-    printf("Ingrese sus nombres completos:\n");
-    scanf("%[^\n]", nombresCompletos);
-    getchar();
-    printf("Sus nombres completos ingresados son: %s\n", nombresCompletos);
+       printf("Ingrese sus nombres completos:\n");
+       scanf("%[^\n]", nombresCompletos);
+       getchar();
+       printf("Sus nombres completos ingresados son: %s\n", nombresCompletos);
    
     
-    return 0;
-}
+       return 0;
+      }
      ```
 
 ---
