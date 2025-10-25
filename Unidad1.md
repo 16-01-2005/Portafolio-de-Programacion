@@ -74,8 +74,12 @@
 
 ### 🧾 **Evidencias**
 - 📄 Capturas de pantalla de programas compilados y ejecutados.  
-- 📘 Resumen de las funciones más usadas de `<string.h>`.  
-- 🧮 Ejemplos de código con explicación línea por línea.  
+- 📘 Resumen de las funciones más usadas.  
+- 🧮 Ejemplos de código con explicación línea por línea.
+-
+### 💾 **Repositorio con todos los archivos del portafolio**
+- 📄 Acceso completo a los materiales, prácticas y proyectos desarrollados durante el curso.
+
 
 ---
 
