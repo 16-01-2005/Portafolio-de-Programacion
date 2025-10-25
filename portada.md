@@ -20,7 +20,7 @@
 ### 🔗 **Accede al Portafolio Completo**  
 [👉 Entrar al Portafolio](index.md)
 
-<img src="Sello_UNL.png" alt="Portada del Portafolio" width="600">
+<img src="" alt="Portada del Portafolio" width="600">
 
 </div>
 
