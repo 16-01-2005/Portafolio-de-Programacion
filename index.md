@@ -1,40 +1,43 @@
-# 💻 TEORÍA DE LA PROGRAMACIÓN  
-## 🗂️ PORTAFOLIO DIGITAL DE APRENDIZAJE  
+# 💻 **TEORÍA DE LA PROGRAMACIÓN**  
+## 🗂️ *Portafolio Digital de Aprendizaje*  
 
 ---
 
-## 📘 UNIDAD 1  
-📖 *Contenido relacionado con los fundamentos de la programación, conceptos básicos y estructuras iniciales.*
+### 📘 **UNIDAD 1 – Fundamentos de la Programación**  
+📖 *Conceptos básicos, tipos de datos, algoritmos y estructuras iniciales.*
 
-[Algorrtimos](Unidad1.md)
-
-
----
-
-## 💡 UNIDAD 2  
-🧩 *Aplicación de estructuras de control, desarrollo de algoritmos y análisis de problemas.*
+🔗 [Ver contenido de la Unidad 1 →](Unidad1.md)
 
 ---
 
-## 🚀 UNIDAD 3  
-🛠️ *Diseño de programas, depuración, y prácticas avanzadas de programación.*
+### 💡 **UNIDAD 2 – Estructuras de Control y Algoritmos**  
+🧩 *Aplicación práctica de estructuras condicionales, ciclos, y desarrollo de algoritmos para la resolución de problemas.*
 
 ---
 
-### 🧠 Conclusiones  
-Reflexión final sobre el aprendizaje obtenido, los retos superados y las habilidades desarrolladas durante el curso.
+### 🚀 **UNIDAD 3 – Diseño y Optimización de Programas**  
+🛠️ *Creación de programas funcionales, depuración de errores y prácticas avanzadas de programación.*
 
 ---
 
-### 📚 Referencias  
-Fuentes bibliográficas, enlaces y material de consulta utilizado en el desarrollo del portafolio.
+## 🧠 **Conclusiones**  
+Reflexión final sobre el aprendizaje obtenido, los retos superados y las habilidades desarrolladas a lo largo del curso.  
+Se destacan las competencias adquiridas en el razonamiento lógico, la resolución de problemas y la aplicación estructurada de la programación.
 
 ---
 
-### 🤖 Uso de la IA Generativa  
-Análisis del empleo de herramientas de IA en el proceso de aprendizaje y desarrollo de proyectos.
+## 📚 **Referencias**  
+Fuentes bibliográficas, artículos, y materiales digitales utilizados para la elaboración del portafolio y el fortalecimiento del aprendizaje.
 
 ---
 
-✍️ *Autor: Ricardo Mathias Ochoa Armijos*  
-📅 *Fecha: Octubre 2025*  
+## 🤖 **Uso de la IA Generativa**  
+Análisis del rol de la Inteligencia Artificial en el aprendizaje autónomo y el desarrollo de proyectos.  
+Incluye observaciones sobre cómo la IA puede potenciar la creatividad, la eficiencia y la resolución de problemas en el ámbito de la programación.
+
+---
+
+✍️ **Autor:** *Ricardo Mathias Ochoa Armijos*  
+📅 **Fecha:** *Octubre 2025*  
+📍 **Institución:** UNIVERSIDAD NACIOLANL DE LOJA*
+
