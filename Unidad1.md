@@ -66,7 +66,7 @@
 ---
 
 ### 🧠 **Reflexión Personal**
-> 💬 *Durante esta unidad comprendí la estructura lógica del lenguaje C y su precisión en el manejo de datos. Me ayudo a comprnder complementar la logica para poder progamar con mas facilidad. Manipular cadenas me ayudó a entender cómo C gestiona la memoria y los caracteres de forma controlada.*  
+> 💬 *Durante esta unidad comprendí la estructura lógica del lenguaje C y su precisión en el manejo de datos. Me ayudo a complementar la logica para poder progamar con mas facilidad. Manipular cadenas me ayudó a entender cómo C gestiona la memoria y los caracteres de forma controlada.*  
 
 ---
 
