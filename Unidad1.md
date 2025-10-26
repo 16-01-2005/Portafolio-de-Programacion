@@ -78,7 +78,7 @@
 -
 ### 💾 **Repositorio con todos los archivos del portafolio**
 - 📄 Acceso completo a los materiales, prácticas y proyectos desarrollados durante el curso.
-  https://drive.google.com/drive/folders/15_G3FdXdyOaaUaicHBbPCh7xzdUAFPmy
+  https://drive.google.com/drive/folders/1h-xeqlYcn4PQkfEFcYy5ox6T9bdCMFsK
 
 
 ---
