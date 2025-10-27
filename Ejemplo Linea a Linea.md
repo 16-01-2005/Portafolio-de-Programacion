@@ -1,7 +1,10 @@
 ´´´
-    #include <stdio.h>
-    #include <math.h> //Se ingresa la libreria para que se pueda hacer funciones matematicas mas complejas
+  Ejemplo 
 
+    #include <stdio.h>  
+    //Se ingresa la libreria para que se pueda hacer funciones matematicas mas complejas
+    #include <math.h> 
+    
     int main(){
 
     //Se definen las variables reales
@@ -23,6 +26,6 @@
     printf("La distancia que entre los dos puntos (%.2f ; %.2f) y (%.2f ; %.2f) es : %.2f", x1, y1, x2, y2, distancia);
 
     return 0;
-}
+    }
 ´´´
 🏠 [Unidad 1 ](Unidad1.md)
