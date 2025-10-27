@@ -1,6 +1,6 @@
-´´´
+<img width="958" height="336" alt="image" src="https://github.com/user-attachments/assets/71939629-10da-4ab4-9254-69ea7d3ed6a3" />´´´
   
-###💾 Ejemplo 
+#💾 Ejemplo 
 
     #include <stdio.h>  
     //Se ingresa la libreria para que se pueda hacer funciones matematicas mas complejas
@@ -28,5 +28,8 @@
 
     return 0;
     }
+
+
+    
 ´´´
 🏠 [Unidad 1 ](Unidad1.md)
