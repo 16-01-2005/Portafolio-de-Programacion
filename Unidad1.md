@@ -74,7 +74,7 @@
 - 📄 Capturas de pantalla de programas compilados y ejecutados.
   
 - 📘 Resumen de las funciones más usadas.  
-- 🧮 Ejemplos de código con explicación línea por línea.
+- 🧮 Ejemplo de un código con explicación línea por línea.
 -
 ### 💾 **Repositorio con todos los archivos del portafolio**
 - 📄 Acceso completo a los materiales, prácticas y proyectos desarrollados durante el curso.
