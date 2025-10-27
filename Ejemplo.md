@@ -1,5 +1,4 @@
-<img width="958" height="336" alt="image" src="https://github.com/user-attachments/assets/71939629-10da-4ab4-9254-69ea7d3ed6a3" />´´´
-  
+ 
 #💾 Ejemplo 
 
     #include <stdio.h>  
@@ -29,7 +28,6 @@
     return 0;
     }
 
+<img width="458" height="336" alt="image" src="https://github.com/user-attachments/assets/71939629-10da-4ab4-9254-69ea7d3ed6a3" />´´´
 
-    
-´´´
 🏠 [Unidad 1 ](Unidad1.md)
