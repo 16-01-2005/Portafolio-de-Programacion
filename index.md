@@ -41,3 +41,5 @@ Incluye observaciones sobre cómo la IA puede potenciar la creatividad, la efici
 📅 **Fecha:** *Octubre 2025*  
 📍 **Institución:** UNIVERSIDAD NACIOLANL DE LOJA*
 
+[Ir a Portada→](portada.md)
+
