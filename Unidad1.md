@@ -62,6 +62,7 @@
 - 🔡 Aplicar funciones de `<string.h>` para analizar y modificar texto.  
 - ⚙️ Crear ejercicios que combinen variables, operadores y cadenas.  
 - 🗂️ Crear seudocodigos en pseint y diagrama de flujo
+
 https://drive.google.com/drive/folders/1OpWlRFN7Fy5rCB5rr4fL5B_j8_B08o3g
 
 ---
@@ -76,9 +77,11 @@ https://drive.google.com/drive/folders/1OpWlRFN7Fy5rCB5rr4fL5B_j8_B08o3g
   
 - 📘 Resumen de las funciones más usadas.  
 - 🧮 Ejemplo de un código con explicación línea por línea.
+
 [Ejemplo 1](Ejemplo.md)
 ### 💾 **Repositorio con todos los archivos del portafolio**
 - 📄 Acceso completo a los materiales, prácticas y proyectos desarrollados durante el curso.
+
 https://drive.google.com/drive/folders/1h-xeqlYcn4PQkfEFcYy5ox6T9bdCMFsK
 
 
