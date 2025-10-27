@@ -1,5 +1,6 @@
 ´´´
-  Ejemplo 
+  
+###💾 Ejemplo 
 
     #include <stdio.h>  
     //Se ingresa la libreria para que se pueda hacer funciones matematicas mas complejas
