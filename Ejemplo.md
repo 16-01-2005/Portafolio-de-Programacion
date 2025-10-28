@@ -1,4 +1,3 @@
-<img width="522" height="700" alt="image" src="https://github.com/user-attachments/assets/23d77bfe-28c4-40b0-9404-88e813ce38aa" /> 
 #💾 Ejemplo 
 
     Proceso Distancia_Entre_Puntos
