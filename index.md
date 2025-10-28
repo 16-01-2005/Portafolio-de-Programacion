@@ -11,18 +11,17 @@
 ---
 
 ### 💡 **UNIDAD 2 – Estructuras de Control y Algoritmos**  
-🧩 *Aplicación práctica de estructuras condicionales, ciclos, y desarrollo de algoritmos para la resolución de problemas.*
+🧩 
 
 ---
 
 ### 🚀 **UNIDAD 3 – Diseño y Optimización de Programas**  
-🛠️ *Creación de programas funcionales, depuración de errores y prácticas avanzadas de programación.*
+🛠️ 
 
 ---
 
 ## 🧠 **Conclusiones**  
-Reflexión final sobre el aprendizaje obtenido, los retos superados y las habilidades desarrolladas a lo largo del curso.  
-Se destacan las competencias adquiridas en el razonamiento lógico, la resolución de problemas y la aplicación estructurada de la programación.
+
 
 ---
 
