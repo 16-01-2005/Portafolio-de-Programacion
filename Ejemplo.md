@@ -1,6 +1,30 @@
- 
+<img width="522" height="700" alt="image" src="https://github.com/user-attachments/assets/23d77bfe-28c4-40b0-9404-88e813ce38aa" /> 
 #💾 Ejemplo 
 
+    Proceso Distancia_Entre_Puntos
+    
+    Definir x1, y1, x2, y2, distancia Como Real
+
+    // Se ingresan las primeras coordenadas
+    Escribir "Ingrese las primeras coordenadas (x1 y1):"
+    Leer x1, y1
+
+    // Se ingresan las segundas coordenadas
+    Escribir "Ingrese las segundas coordenadas (x2 y2):"
+    Leer x2, y2
+
+    // Se realiza la operación para calcular la distancia con la formula d= RAIZ((x2 - x1)^2 + (y2 - y1)^2)
+    distancia <- RAIZ((x2 - x1)^2 + (y2 - y1)^2)
+
+    // Se muestra el resultado
+    Escribir "La distancia entre los puntos (", x1, " ; ", y1, ") y (", x2, " ; ", y2, ") es: ", distancia
+    
+    FinProceso
+
+   <img width="522" height="700" alt="image" src="https://github.com/user-attachments/assets/22a3f7ce-9f54-4930-a331-4a25839d0f1c" />
+
+ 
+ 
     #include <stdio.h>  
     //Se ingresa la libreria para que se pueda hacer funciones matematicas mas complejas
     #include <math.h> 
