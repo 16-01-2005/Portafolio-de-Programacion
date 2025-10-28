@@ -1,6 +1,6 @@
 #💾 Ejemplo 
 
-    Proceso Distancia_Entre_Puntos
+    Algoritmo Distancia_Entre_Puntos
     
     Definir x1, y1, x2, y2, distancia Como Real
 
@@ -18,7 +18,7 @@
     // Se muestra el resultado
     Escribir "La distancia entre los puntos (", x1, " ; ", y1, ") y (", x2, " ; ", y2, ") es: ", distancia
     
-    FinProceso
+    FinAlgoritmo
 
    <img width="522" height="700" alt="image" src="https://github.com/user-attachments/assets/22a3f7ce-9f54-4930-a331-4a25839d0f1c" />
 
