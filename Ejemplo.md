@@ -25,6 +25,10 @@
    <img width="522" height="700" alt="image" src="https://github.com/user-attachments/assets/22a3f7ce-9f54-4930-a331-4a25839d0f1c" />
 
  
+| Puntos x1 y1 | Puntos x2 y2 | d=√((x_2-x_1)²+(y_2-y_1)²) |
+|--------------|--------------|----------------------------|
+| Dato 1       | Dato 2       | Dato 3                     |
+| Dato A       | Dato B       | Dato C                     |
  
     #include <stdio.h>  
     //Se ingresa la libreria para que se pueda hacer funciones matematicas mas complejas
@@ -52,12 +56,6 @@
 
     return 0;
     }
-
-| Columna 1 | Columna 2 | Columna 3 |
-|------------|------------|------------|
-| Dato 1     | Dato 2     | Dato 3     |
-| Dato A     | Dato B     | Dato C     |
-
 
 <img width="938" height="336" alt="image" src="https://github.com/user-attachments/assets/71939629-10da-4ab4-9254-69ea7d3ed6a3" />
 
