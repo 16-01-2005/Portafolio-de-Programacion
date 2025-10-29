@@ -25,10 +25,12 @@
    <img width="522" height="700" alt="image" src="https://github.com/user-attachments/assets/22a3f7ce-9f54-4930-a331-4a25839d0f1c" />
 
  
-| Puntos x1 y1 | Puntos x2 y2 | d=√((x_2-x_1)²+(y_2-y_1)²) |
-|--------------|--------------|----------------------------|
-| Dato 1       | Dato 2       | Dato 3                     |
-| Dato A       | Dato B       | Dato C                     |
+| Puntos x1 y1 | Puntos x2 y2 | d=√((x_2-x_1)²+(y_2-y_1)²) | Imprime |
+|--------------|--------------|----------------------------|---------|
+| Dato 1       | Dato 2       | d=√((x_2-x_1)²+(y_2-y_1)²) |         |   
+| Dato A       | Dato B       | d=√((x_2-x_1)²+(y_2-y_1)²) |         | 
+|              |              | d=√((x_2-x_1)²+(y_2-y_1)²) |         | 
+
  
     #include <stdio.h>  
     //Se ingresa la libreria para que se pueda hacer funciones matematicas mas complejas
