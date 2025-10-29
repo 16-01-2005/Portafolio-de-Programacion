@@ -46,5 +46,5 @@
 📅 **Fecha:** *Octubre 2025*  
 📍 **Institución:** UNIVERSIDAD NACIONAL DE LOJA*
 
-[Ir a Portada→](portada.md)
+[Ir a Portada→](index.md)
  
