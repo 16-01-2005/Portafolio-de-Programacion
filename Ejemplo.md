@@ -53,6 +53,12 @@
     return 0;
     }
 
+    | Izquierda | Centro | Derecha |
+|:-----------|:------:|--------:|
+| texto 1    | texto 2 | texto 3 |
+| texto 4    | texto 5 | texto 6 |
+
+
 <img width="938" height="336" alt="image" src="https://github.com/user-attachments/assets/71939629-10da-4ab4-9254-69ea7d3ed6a3" />
 
 🏠 [Unidad 1 ](Unidad1.md)
