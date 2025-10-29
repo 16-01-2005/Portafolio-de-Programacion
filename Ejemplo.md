@@ -1,4 +1,4 @@
-# Ejemplo 1
+# **Ejemplo 1**
 
     Algoritmo Distancia_Entre_Puntos
     
