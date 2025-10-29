@@ -86,8 +86,6 @@
 
 ### 🧾 **Evidencias**
 - 📄 Capturas de pantalla de programas compilados y ejecutados.
-  
-- 📘 Resumen de las funciones más usadas.  
 - 🧮 Ejemplo de un código con explicación línea por línea.
 
 [Ejemplo 1](Ejemplo.md)
