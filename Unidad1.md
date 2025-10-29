@@ -88,7 +88,7 @@
 - 📄 Capturas de pantalla de programas compilados y ejecutados.
 - 🧮 Ejemplo de un código con explicación línea por línea.
 
-[Ejemplo 1](Ejemplo.md)
+[Ejemplo 1](Ejemplo.md) [Ejemplo 2](Ejemplo2.md)
 ### 💾 **Repositorio con todos los archivos del portafolio**
 - 📄 Acceso completo a los materiales, prácticas y proyectos desarrollados durante el curso.
 
