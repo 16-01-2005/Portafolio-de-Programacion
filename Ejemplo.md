@@ -24,7 +24,8 @@
 
    <img width="522" height="700" alt="image" src="https://github.com/user-attachments/assets/22a3f7ce-9f54-4930-a331-4a25839d0f1c" />
 
- 
+
+ ### **Pruebas de Escritorio**
 | Puntos x1 y1 | Puntos x2 y2 | d=√((x_2-x_1)²+(y_2-y_1)²)         | Imprime |
 |--------------|--------------|------------------------------------|---------|
 | 36.78 86.45  | 25.36 42.17  | d=√((25.36-36.78)²+(42.17-86.45)²) |45.73    |   
