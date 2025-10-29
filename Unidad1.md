@@ -89,6 +89,10 @@
 > 💬 *Durante esta unidad comprendí la estructura lógica del lenguaje C y su precisión en el manejo de datos. Me ayudo a complementar la logica para poder progamar con mas facilidad. Manipular cadenas me ayudó a entender cómo C gestiona la memoria y los caracteres de forma controlada.*  
 
 ---
+### 🧠 **Conclusiones**
+- El desarrollo de algoritmos y su implementación en lenguaje C constituye la base para una solución eficaz a los problemas computacionales. Dado que los algoritmos nos permiten estructurar el pensamiento lógico, dividir un problema complejo en pasos claros y definir procesos precisos que una computadora puede realizar. Utilizando el lenguaje C, estos algoritmos se transforman en soluciones funcionales, optimizadas y de alto rendimiento gracias a su proximidad al hardware y al control detallado de la memoria y los recursos.
+-   Las herramientas de programación como entornos de desarrollo, depuradores y compiladores complementan este proceso y facilitan la detección de errores, la optimización del código y el análisis del flujo de ejecución lógica. Los algoritmos y herramientas en conjunto fortalecen la capacidad del programador para razonar de manera estructurada, eficiente y creativa, fomentando un pensamiento computacional robusto aplicable a cualquier área de la informática.
+---
 
 ### 🧾 **Evidencias**
 - 📄 Capturas de pantalla de programas compilados y ejecutados.
