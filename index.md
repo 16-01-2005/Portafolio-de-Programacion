@@ -37,9 +37,8 @@
 ---
 
 ## 🤖 **Uso de la IA Generativa**  
-Análisis del rol de la Inteligencia Artificial en el aprendizaje autónomo y el desarrollo de proyectos.  
-Incluye observaciones sobre cómo la IA puede potenciar la creatividad, la eficiencia y la resolución de problemas en el ámbito de la programación.
-
+- Use la IA para poder ingresar imagenes y poder ajustar el tamaña de as mismas
+- Use la Ia para que me de la lista de emojis los cuales los utilize en cada etapa
 ---
 
 ✍️ **Autor:** *Ricardo Mathias Ochoa Armijos*  
