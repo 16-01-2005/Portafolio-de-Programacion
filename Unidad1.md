@@ -16,7 +16,7 @@
 - Los diagramas de flujo son aquellas representaciones graficas que permiten la diagramación y el análisis de todos los aspectos relevante, dando de esta       manera los lineamientos para escribir de una manera clara y lógicas.
 ---
 ### 🔤 Pseudocódigos
--   El pseucódigo es el paso intermedio de un programa algorítmico, que se expresan mediante símbolos, y los lenguajes de programación. Siendo este un          método que nos ayudara a la programación y solución del algoritmo del programa.
+- El pseucódigo es el paso intermedio de un programa algorítmico, que se expresan mediante símbolos, y los lenguajes de programación. Siendo este un          método que nos ayudara a la programación y solución del algoritmo del programa.
 ---
 ### 🧩 **Temas Principales**
 1. 🧾 **Introducción al lenguaje C**  
@@ -86,14 +86,15 @@
 ---
 
 ### 🧠 **Reflexión Personal**
-> 💬 *Durante esta unidad comprendí la estructura lógica del lenguaje C y su precisión en el manejo de datos. Me ayudo a complementar la logica para poder progamar con mas facilidad. Manipular cadenas me ayudó a entender cómo C gestiona la memoria y los caracteres de forma controlada.*  
+> 💬*Durante esta unidad entendí la estructura del lenguaje C y su pprocesamiento  de datos. También aprendí a organizar mis ideas de forma más estructurada, lo que facilitó el proceso de programación. Dado que el  trabajo con cadenas me ayudo a entender cómo C gestiona la memoria y los caracteres de manera eficiente y controlada, reforzando mi capacidad para desarrollar programas más estables y optimizados.*  
 
 ---
 ### 🧠 **Conclusiones**
-> 💬 *El desarrollo de algoritmos y su implementación en lenguaje C constituye la base para una solución eficaz a los problemas computacionales. Dado que los algoritmos nos permiten estructurar el pensamiento lógico, dividir un problema complejo en pasos claros y definir procesos precisos que una computadora puede realizar. Utilizando el lenguaje C, estos algoritmos se transforman en soluciones funcionales, optimizadas y de alto rendimiento gracias a su proximidad al hardware y al control detallado de la memoria y los recursos.*
+> 💬*El desarrollo de algoritmos y su implementación en lenguaje C constituye la base para una solución eficaz a los problemas computacionales. Dado que los algoritmos nos permiten estructurar el pensamiento lógico, dividir un problema complejo en pasos claros y definir procesos precisos que una computadora puede realizar. Utilizando el lenguaje C, estos algoritmos se transforman en soluciones funcionales, optimizadas y de alto rendimiento gracias a su proximidad al hardware y al control detallado de la memoria y los recursos.*
 
 
-> 💬 *Las herramientas de programación como entornos de desarrollo, depuradores y compiladores complementan este proceso y facilitan la detección de errores, la optimización del código y el análisis del flujo de ejecución lógica. Los algoritmos y herramientas en conjunto fortalecen la capacidad del programador para razonar de manera estructurada, eficiente y creativa, fomentando un pensamiento computacional robusto aplicable a cualquier área de la informática.*
+> 💬*Las herramientas de programación como entornos de desarrollo, depuradores y compiladores complementan este proceso y facilitan la detección de errores, la optimización del código y el análisis del flujo de ejecución lógica. Los algoritmos y herramientas en conjunto fortalecen la capacidad del programador para razonar de manera estructurada, eficiente y creativa, fomentando un pensamiento computacional robusto aplicable a cualquier área de la informática.*
+
 ---
 
 ### 🧾 **Evidencias**
