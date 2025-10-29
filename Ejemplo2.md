@@ -24,29 +24,35 @@
 
 <img width="510" height="689" alt="image" src="https://github.com/user-attachments/assets/6c234b3e-55ed-474b-949b-0f28f72d92f4" />
 
+| Precio Vehiculo| Comsion | Venta Final |
+|----------------|---------|-------------|
+| Dato 1     | Dato 2     | Dato 3     |
+| Dato A     | Dato B     | Dato C     |
 
-		    #include <stdio.h>
+
+
+		#include <stdio.h>
 		
 		int main(){
 		
-		    //Se ingresa las variables flotantes (Reales)
-		    float comision, venta;
+		//Se ingresa las variables flotantes (Reales)
+		float comision, venta;
 		
-		    //Se pide que se ingrese el precio del vehiculo
-		    printf("Ingrese el precio del vehiculo: \n");
-		    //Se lee el precio del vehiculo
-		    scanf("%f", &venta);
+		//Se pide que se ingrese el precio del vehiculo
+		printf("Ingrese el precio del vehiculo: \n");
+		//Se lee el precio del vehiculo
+		scanf("%f", &venta);
 		
-		    //Se realiza la formula para poder sacar la comision (venta * 4) / 100
-		    comision = (venta * 4) / 100;
-		    //Se calcula la venta con la formula venta - comision
-		    venta = venta - comision;
+		//Se realiza la formula para poder sacar la comision (venta * 4) / 100
+		comision = (venta * 4) / 100;
+		//Se calcula la venta con la formula venta - comision
+		venta = venta - comision;
 		
-		    //Se imprime la comsion y la venta
-		    printf("La comision de la venta es: %.2f", comision);
-		    printf("La venta es de: %.2f", venta);
+		//Se imprime la comsion y la venta
+		printf("La comision de la venta es: %.2f", comision);
+		printf("La venta es de: %.2f", venta);
 		
-		    return 0;
+		return 0;
 		}
 
 <img width="718" height="287" alt="image" src="https://github.com/user-attachments/assets/3d90fde0-c14d-4d70-8358-5603d80f32e8" />
