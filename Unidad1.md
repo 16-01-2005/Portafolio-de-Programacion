@@ -18,10 +18,6 @@
 ### 🔤 Pseudocódigos
 -   El pseucódigo es el paso intermedio de un programa algorítmico, que se expresan mediante símbolos, y los lenguajes de programación. Siendo este un          método que nos ayudara a la programación y solución del algoritmo del programa.
 ---
-### 🧮 Diagramas de Flujo
--   Los diagramas de flujo son aquellas representaciones graficas que permiten la diagramación y el análisis de todos los aspectos relevante, dando de esta       manera los lineamientos para escribir de una manera clara y lógicas.
----
-
 ### 🧩 **Temas Principales**
 1. 🧾 **Introducción al lenguaje C**  
    - Características del lenguaje.  
