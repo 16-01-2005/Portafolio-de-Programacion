@@ -1,20 +1,17 @@
 
+# 💻 **PORTAFOLIO DIGITAL DE APRENDIZAJE DE TEORÍA DE LA PROGRAMACIÓN**  
 
-# 💻 **PORTAFOLIO DIGITAL DE APRENDIZAJE**  
-## 🧠 **TEORÍA DE LA PROGRAMACIÓN**  
-### 🏫 **Ciclo 1**
+---
 
-### ✍️ **Autor:**  
-## *Ricardo Mathias Ochoa Armijos*  
-
-📍 Universidad Nacional de Loja — Loja, Ecuador*  
-📅 *Septiembre 2025 -  Febrero 2026*
-
-### 🔗 **Accede al Portafolio Completo**  
-[👉 Entrar al Portafolio](index.md)
+### 📘 **Teoria de la Programación**  
 
 
-<img src="logo-unl-HC-01-e1651758359420.png" alt="Logo del Portafolio" width="180" style="float: right; margin-left: 20px; border-radius: 10px;">
+## ✍️ **Autor:** *Ricardo Mathias Ochoa Armijos*  
+## 📅 **Fecha:** *Octubre 2025*  
+## 📍 **Institución:** UNIVERSIDAD NACIONAL DE LOJA*
 
 
+<img width="491" height="183" alt="image" src="https://github.com/user-attachments/assets/8d8c510b-7815-4c22-a399-af30af7628a2" />
+
+[Ir a Portafolio→](index.md)
 
