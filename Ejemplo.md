@@ -1,6 +1,6 @@
 # **Ejemplo 1**
 
-## *Lo que el ejercicio requiere es ingresar 4 puntos (x1 ; y1) (x2 ; y2) respectivamente y calcular ls distancia que existe entre ellos con la formula d=√((x_2-x_1)²+(y_2-y_1)²) luego se imprime la distacnia que existe entre ellos*
+### *Lo que el ejercicio requiere es ingresar 4 puntos (x1 ; y1) (x2 ; y2) respectivamente y calcular la distancia que existe entre ellos con la formula d=√((x_2-x_1)²+(y_2-y_1)²) luego se imprime la distacnia que existe entre ellos*
 
     Algoritmo Distancia_Entre_Puntos
     
