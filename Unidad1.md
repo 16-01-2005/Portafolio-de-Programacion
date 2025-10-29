@@ -46,26 +46,6 @@
    - Declaración de cadenas: uso de arreglos de tipo `char`.  
    - Inicialización de cadenas y el carácter nulo `'\0'`.  
    - Lectura y escritura de cadenas: `scanf()`, `gets()`, `fgets()`, `printf()`, `puts()`.  
-      - Ejemplo simple:  
-     ```
-         #include <stdio.h>  
-         #include <strings.h>
-         #include <stdlib.h>
-
-         int main(){
-
-         char nombresCompletos[20];
-
-         printf("Ingrese sus nombres completos:\n");
-         scanf("%[^\n]", nombresCompletos);
-         getchar();
-         printf("Sus nombres completos ingresados son: %s\n", nombresCompletos);
-   
-    
-         return 0;
-         }
-     ```
-
 ---
 
 ### 🧰 **Actividades de Aprendizaje**
