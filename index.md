@@ -43,7 +43,7 @@
 
 ✍️ **Autor:** *Ricardo Mathias Ochoa Armijos*  
 📅 **Fecha:** *Octubre 2025*  
-📍 **Institución:** UNIVERSIDAD NACIOLANL DE LOJA*
+📍 **Institución:** UNIVERSIDAD NACIONAL DE LOJA*
 
 [Ir a Portada→](portada.md)
 
