@@ -1,5 +1,5 @@
 # Ejemplo 2 
-### El problema nos pide calcular la comisión de la venta de un asesor que realiza ventas de carros, se calcula con la siguiete formula comsion = (venta *4 )/ 100 y tambien se ingresa cual es total de la venta, al final se imprime la comisión de la venta y cual es el total de la venta
+### **El problema nos pide calcular la comisión de la venta de un asesor que realiza ventas de carros, se calcula con la siguiete formula comsion = (venta por 4 )/ 100 y tambien se ingresa cual es total de la venta, al final se imprime la comisión de la venta y cual es el total de la venta**
     	Algoritmo calculoComision
 
     	// Se declaran las variables reales
@@ -24,8 +24,8 @@
 
 <img width="510" height="689" alt="image" src="https://github.com/user-attachments/assets/6c234b3e-55ed-474b-949b-0f28f72d92f4" />
 
-| Precio Vehiculo| Comsion | Venta Final |
-|----------------|---------|-------------|
+| Venta Vehiculo| Comosion = (Venta Vehiculo * 4) | Venta Final = Venta - Comsion |
+|---------------|---------------------------------|-------------------------------|
 | Dato 1     | Dato 2     | Dato 3     |
 | Dato A     | Dato B     | Dato C     |
 
