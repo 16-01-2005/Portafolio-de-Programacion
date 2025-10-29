@@ -1,85 +1,55 @@
 # Ejemplo 2 
+### **El problema nos pide calcular la comisión de la venta de un asesor que realiza ventas de carros, se calcula con la siguiete formula comsion = (venta *4 )/ 100 y tambien se ingresa cual es total de la venta, al final se imprime la comisión de la venta y cual es el total de la venta**
+    	Algoritmo calculoComision
 
-    Algoritmo calcularNota
+    	// Se declaran las variables reales
+    	Definir comision, venta Como Real
+
+    	// Se pide que se ingrese el precio del vehículo
+	    Escribir "Ingrese el precio del vehículo: "
+	    Leer venta
+	
+	    // Se calcula la comisión (venta * 4) / 100
+	    comision <- (venta * 4) / 100
+	
+	    // Se calcula la venta después de la comisión
+	    venta <- venta - comision
+	
+	    // Se imprimen los resultados
+	    Escribir "La comisión de la venta es: ", comision
+	    Escribir "La venta después de la comisión es: ", venta
+	
+		FinAlgoritmo
+
+
+<img width="510" height="689" alt="image" src="https://github.com/user-attachments/assets/6c234b3e-55ed-474b-949b-0f28f72d92f4" />
+
+
+		    #include <stdio.h>
 		
-		// Declaración de variables reales (flotantes)
-		Definir Nota1, Nota2, Nota3, NC, NF, NL Como Real
+		int main(){
 		
-		// Se pide al usuario ingresar las notas
-		Escribir "Ingrese su primera nota, segunda nota y la nota del laboratorio:"
-		Leer Nota1, Nota2, NL
+		    //Se ingresa las variables flotantes (Reales)
+		    float comision, venta;
 		
-		// Se realiza la fórmula: Nota3 = 3 * ((60 - (NL * 0.3)) / 0.7) - (Nota1 + Nota2)
-		Nota3 <- 3 * ((60 - (NL * 0.3)) / 0.7) - (Nota1 + Nota2)
+		    //Se pide que se ingrese el precio del vehiculo
+		    printf("Ingrese el precio del vehiculo: \n");
+		    //Se lee el precio del vehiculo
+		    scanf("%f", &venta);
 		
-		// Estructura condicional para evaluar los casos posibles
-		Si Nota3 < 0 Entonces
-			Escribir "Ya aprueba con las notas actuales."
-			Nota3 <- 0
-		Sino
-			Si Nota3 > 100 Entonces
-				Escribir "No es posible aprobar (necesitaría más de 100 puntos)."
-			Sino
-				Escribir "La tercera nota que necesita es de: ", Nota3, " para aprobar con 60."
-			FinSi
-		FinSi
+		    //Se realiza la formula para poder sacar la comision (venta * 4) / 100
+		    comision = (venta * 4) / 100;
+		    //Se calcula la venta con la formula venta - comision
+		    venta = venta - comision;
 		
-		// Se calcula el promedio de certámenes: NC = (Nota1 + Nota2 + Nota3) / 3
-		NC <- (Nota1 + Nota2 + Nota3) / 3
+		    //Se imprime la comsion y la venta
+		    printf("La comision de la venta es: %.2f", comision);
+		    printf("La venta es de: %.2f", venta);
 		
-		// Se calcula la nota final: NF = (NC * 0.7) + (NL * 0.3)
-		NF <- (NC * 0.7) + (NL * 0.3)
-		
-		// Se muestran los resultados finales
-		Escribir "Promedio de los certámenes (NC): ", NC
-		Escribir "Nota final estimada (NF): ", NF
-		
-    FinAlgoritmo
+		    return 0;
+		}
 
-
-<img width="682" height="706" alt="image" src="https://github.com/user-attachments/assets/d2605e88-14fc-461e-94ad-5e658bb19b03" />
-
-
-    #include <stdio.h>
-
-    int  main(){
-
-    //Se ingresan las variables reales (Flotantes) 
-    float Nota1, Nota2, Nota3, NC, NF, NL;
-
-    //Se pide al usuario la Nota 1, Nota 2 y la Nota del Laboratorio
-    printf("Ingrese su primer, segunda nota y la nota del laboratorio: \n");
-    //Se leen las variables 
-    scanf("%f %f %f", &Nota1, &Nota2, &NL);
-
-    //Se realiza la formula Nota3 = 3 * ((60 - (NL * 0.3)) / 0.7) - (Nota1 + Nota2)
-    Nota3 = 3 * ((60 - (NL * 0.3)) / 0.7) - (Nota1 + Nota2);
-
-    //Utilize el if y else if para poder poner condiciones y dependiendo de las condiciones cumplidas se imprime lo necesario
-    if (Nota3 < 0) {
-        printf("\nYa aprueba con las notas actuales.\n");
-        Nota3 = 0;
-    } else if (Nota3 > 100) {
-        printf("\nNo es posible aprobar (necesitaria mas de 100 puntos)\n");
-    } else {
-        printf("\nLa tercer nota que necesita es de: %.2f para aprobar con 60\n", Nota3);
-    }
-
-    // Se realizo la operacion nc=(n1+n2+n3)/3
-    NC = (Nota1 + Nota2 + Nota3) / 3;
-    
-    // Se realizo la operacion nf=(nc*0.7)+(nl*0.3)
-    NF = (NC * 0.7) + (NL * 0.3);
-
-    //Se imprimer las notas fnales 
-    printf("\nLa nota 3 es: %.2f\n", Nota3);
-    printf("Promedio de las notas es: %.2f\n", NC);
-    printf("Nota final estimada (NF): %.2f\n", NF);
-
-    return 0;
-    }
-
-<img width="698" height="344" alt="image" src="https://github.com/user-attachments/assets/6d6b18a2-36af-44fa-9c94-0b9e2280f022" />
+<img width="718" height="287" alt="image" src="https://github.com/user-attachments/assets/3d90fde0-c14d-4d70-8358-5603d80f32e8" />
 
 
 🏠 [Unidad 1 ](Unidad1.md)
