@@ -90,10 +90,10 @@
 ### 💾 **Repositorio con todos los archivos del portafolio**
 - 📄 Acceso completo a los materiales, prácticas y proyectos desarrollados durante el curso.
 
-- https://drive.google.com/drive/folders/1h-xeqlYcn4PQkfEFcYy5ox6T9bdCMFsK
+   - https://drive.google.com/drive/folders/1h-xeqlYcn4PQkfEFcYy5ox6T9bdCMFsK
 - 🗂️ Crear seudocodigos en pseint y diagrama de flujo
 
-- https://drive.google.com/drive/folders/1OpWlRFN7Fy5rCB5rr4fL5B_j8_B08o3g
+   - https://drive.google.com/drive/folders/1OpWlRFN7Fy5rCB5rr4fL5B_j8_B08o3g
 ---
 
 🏠 [Portafolio](portafolio.md)
