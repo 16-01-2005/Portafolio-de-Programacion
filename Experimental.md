@@ -17,6 +17,11 @@ Labertinto
 <img width="1857" height="932" alt="image" src="https://github.com/user-attachments/assets/ae34543c-1f50-4bbc-9fd2-e45f4eb234b0" />
 4
 <img width="1862" height="937" alt="image" src="https://github.com/user-attachments/assets/815291f7-1aa0-44b0-8fc6-b241e3cb0148" />
+<img width="1861" height="925" alt="image" src="https://github.com/user-attachments/assets/5b6a4868-b8bc-4702-980b-981653732c41" />
+5
+<img width="1861" height="933" alt="image" src="https://github.com/user-attachments/assets/becf1006-d687-45b5-b714-c9a2efa85b04" />
+<img width="1862" height="930" alt="image" src="https://github.com/user-attachments/assets/8e12e4a1-85db-4a1f-9507-a94719b3f284" />
+6
 
 
 
