@@ -57,8 +57,8 @@
 - 🔗 [ACD](Aprendizaje.md)
 
 ### 🧰 AA - Aprendizaje Autónomo 
-- 🗂️ https://drive.google.com/drive/folders/1GdV_SWU0bnnDBVCY_lU93em0ge5zhz9b
-- 🗂️ https://drive.google.com/drive/folders/1GdV_SWU0bnnDBVCY_lU93em0ge5zhz9b
+- 🗂️ [Tarea 1](Tarea1deRicardoOchoa.pdf)
+- 🗂️ [Tarea 2](Tarea2RicardoOchoa.pdf)
 
 ### 🧰 APE - Aprendizaje Práctico Experimental
 - 🗂️ [Juegos de Aprendizaje Práctico Experimental](Experimental.md)
