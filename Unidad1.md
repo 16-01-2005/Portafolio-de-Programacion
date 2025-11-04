@@ -57,7 +57,7 @@
 - 🔗 [ACD](Aprendizaje.md)
 
 ### 🧰 AA - Aprendizaje Autónomo 
-- 🗂️ [Tarea 1](Tarea1.pdf)
+- 🗂️ [Tarea 1](Tarea1pdf)
 - 🗂️ [Tarea 2](Tarea2.pdf)
 
 ### 🧰 APE - Aprendizaje Práctico Experimental
