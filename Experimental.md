@@ -52,16 +52,22 @@
 # 🧩 *Programación visual en Pilasbloques*
 
 <img width="1830" height="933" alt="image" src="https://github.com/user-attachments/assets/af276db3-5519-4b10-8ff1-d8bf482f4f46" />
+
 ### 🧩Churrasco 1: Hay que girar a la derecha 3 veces y comer churasco
 <img width="1863" height="931" alt="image" src="https://github.com/user-attachments/assets/637d5aae-4315-481a-bd8b-4b99c7d3dd50" />
+
 ### 🧩Churrasco 2: Hay que mover derecha, arriba, deracha, comer churrasco
 <img width="1863" height="930" alt="image" src="https://github.com/user-attachments/assets/9c0a58e8-a579-4a56-a2f9-acd16a6fc717" />
+
 ### 🧩Churrasco 3: Hay que mover abajo y 3 a la derecha, comer churrasco 
 <img width="1862" height="918" alt="image" src="https://github.com/user-attachments/assets/57e47235-a58d-4c8a-a683-c859aca80631" />
+
 ### 🧩Churrasco 4: Hay que mover abajo 2 veces, mover a la derecha, mover abajo, comer churrasco 
 <img width="1861" height="930" alt="image" src="https://github.com/user-attachments/assets/c9a62234-2a77-448b-9730-880c4fe4c83d" />
+
 ### 🧩Churrasco 5: Hay que mover a la derecha 2 vecess, abajo 2 veces, comer churrasco 
 <img width="1864" height="933" alt="image" src="https://github.com/user-attachments/assets/fd275429-700d-4799-9f56-fe30aff539df" />
+
 ### 🧩Churrasco 6: Hay que mover arriba 2 veces, derecha 2 veces, bajar una vez, comer churrasco
 <img width="1860" height="932" alt="image" src="https://github.com/user-attachments/assets/1e2e19ad-b1cc-4130-bc1d-39a29f29997b" />
 
