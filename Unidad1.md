@@ -59,7 +59,9 @@
 ### 🧰 APE - Aprendizaje Práctico Experimental
 - 🗂️ [Juegos de Aprendizaje Práctico Experimental](Experimental.md)
 
--  https://drive.google.com/drive/folders/1vz_cm870nCXTpeMzgnBj8_ZaAEO1_PpZ
+- 🗂️ [APE 1.](APE1.pdf)
+- 🗂️ [APE 2.](APE2.pdf)
+- 🗂️ [Cazador de bugs.](Bugs.pdf)
 
 ### 🧰 AA - Aprendizaje Autónomo 
 - AA 1. Herramientras digital para pseudocódigo y digrama de flujo
