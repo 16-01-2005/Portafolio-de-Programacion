@@ -36,15 +36,15 @@
 <img width="1863" height="932" alt="image" src="https://github.com/user-attachments/assets/2fff5663-e0d8-4958-adf2-be1cb0f2650f" />
 <img width="1857" height="929" alt="image" src="https://github.com/user-attachments/assets/97e4549a-674a-4077-8ae8-205df4b29885" />
 
-### 🧩 Laberinto 8: Nos pide llegar a la meta, lo que se necesita es un repetir hassta la meta, avanzar y un si hay camino girar la derecha y que gire a la derecha
+### 🧩 Laberinto 8: Nos pide llegar a la meta, lo que se necesita es un repetir hassta la meta, si hay camino enfrente tine que avanzar, si hay un camino a la izquierda tiene que girar a la izquierda y avanzar, si hay un camino a la derecha, tiene que girar a la deracha y anvanzar 
 <img width="1862" height="936" alt="image" src="https://github.com/user-attachments/assets/920abb8b-2043-4bb9-89cf-2a498b9f10e1" />
 <img width="1867" height="932" alt="image" src="https://github.com/user-attachments/assets/b60f64b8-8c92-4456-948a-724a3aee1c51" />
 
-### 🧩 Laberinto 9: Nos pide llegar a la meta, lo que se necesita es un repetir hassta la meta, si hay camino girar enfrente tine que avanzar, si hay un camino a la izquierda tiene que girar a la izquierda y avanzar, si hay un camino a la derecha, tiene que girar a la deracha y anvanzar 
+### 🧩 Laberinto 9: Nos pide llegar a la meta, lo que se necesita es un repetir hassta la meta, un avanzar, si hay un camino enfrente avanzaar sino girar a la derecha
 <img width="1860" height="937" alt="image" src="https://github.com/user-attachments/assets/ef883c92-f673-4ca4-82c1-2ee35c345021" />
 <img width="1865" height="935" alt="image" src="https://github.com/user-attachments/assets/a7e8bfc3-d84d-4477-9964-c88a5babbea7" />
 
-### 🧩 Laberinto 10: Nos pide llegar a la meta, lo que se necesita es un repetir hassta la meta, si hay camino girar enfrente tine que avanzar, si hay un camino a la izquierda tiene que girar a la izquierda y avanzar, si hay un camino a la derecha, tiene que girar a la deracha y anvanzar 
+### 🧩 Laberinto 10: Nos pide llegar a la meta, lo que se necesita es un repetir hassta la meta, si hay camino girar a la izquierda tine que girar a la izquierda, si hay camino enfrente avanzar, sino girar a la derecha
 <img width="1864" height="935" alt="image" src="https://github.com/user-attachments/assets/762046b2-669e-4982-9961-1ebc4e00a272" />
 <img width="1864" height="923" alt="image" src="https://github.com/user-attachments/assets/b7fd23be-6df8-446e-ab61-5bfb59111719" />
 
