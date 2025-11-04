@@ -1,5 +1,5 @@
 # 🧠 *Ejemplo 1*
-
+#### 📝 Problema
 ### 🧩 **El ejercicio consiste en ingresar las coordenadas de dos puntos en el plano, (x₁, y₁) y (x₂, y₂), y calcular la distancia entre ellos utilizando la fórmula: d = √((x₂ - x₁)² + (y₂ - y₁)²). Finalmente, el programa muestra en pantalla la distancia obtenida entre ambos puntos.**
 
 #### ✅ Pseudocodigo
