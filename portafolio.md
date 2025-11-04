@@ -33,8 +33,10 @@
 ---
 
 ## 🤖 **Uso de la IA Generativa**  
-- Al desarrollar este portafolio, utilicé herramientas de IA generativa principalmente para mejorar la escritura, estructurar ideas y aclarar conceptos de       programación en C. La IA me permitió comprender la lógica de los algoritmos más rápido, verificar errores comunes y crear explicaciones más claras de cómo   funciona el código. Además, apoyó la presentación visual del portafolio, lo que me ayudó a formatear el contenido correctamente en Markdown y crear una       presentación más profesional y organizada. Sin embargo, el proceso de análisis, razonamiento y resolución de problemas se realizó de forma presencial         utilizando la inteligencia artificial sólo como una herramienta adicional de apoyo al aprendizaje.
----
+-<p align="justify">
+- Al desarrollar este portafolio, utilicé herramientas de inteligencia artificial generativa principalmente para mejorar la escritura, estructurar ideas y     aclarar conceptos de programación en C. La IA me permitió comprender con mayor rapidez la lógica de los algoritmos, identificar errores comunes y generar     explicaciones más claras sobre el funcionamiento del código. Además, contribuyó a mejorar la presentación visual del portafolio, ayudándome a formatear       correctamente el contenido en Markdown y a crear una estructura más profesional y organizada. Sin embargo, el proceso de análisis, razonamiento y resolución  de problemas se llevó a cabo de manera personal, utilizando la inteligencia artificial únicamente como una herramienta complementaria de apoyo al aprendizaje.
+</p>
+
 
 ✍️ **Autor:** *Ricardo Mathias Ochoa Armijos*  
 📅 **Fecha:** *Octubre 2025*  
