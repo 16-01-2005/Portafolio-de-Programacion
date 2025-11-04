@@ -49,7 +49,7 @@
 ---
 
 ### 🧰 **Actividades de Aprendizaje**
-- 📝 Escribir programas básicos que lean y muestren cadenas.  
+- 📝 Escribir programas básicos que lean cadenas y las muestren.  
 - 🔡 Aplicar funciones de `<string.h>` para analizar y modificar texto.  
 - ⚙️ Crear ejercicios que combinen variables, operadores y cadenas.  
 
