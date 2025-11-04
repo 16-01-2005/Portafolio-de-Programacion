@@ -59,9 +59,12 @@
 ### 🧰 APE - Aprendizaje Práctico Experimental
 - 🗂️ [Juegos de Aprendizaje Práctico Experimental](Experimental.md)
 
-- 🗂️ [APE 1.](APE1.pdf)
-- 🗂️ [APE 2.](APE2.pdf)
-- 🗂️ [Cazador de bugs](Bugs.pdf)
+- APE 1. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
+   - 🗂️ [APE 1.](APE1.pdf)
+- APE 2. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
+   - 🗂️ [APE 2.](APE2.pdf)
+- Debugging Challenge: “Cazadores de Bugs” 
+   - 🗂️ [Cazador de bugs](Bugs.pdf)
 
 ### 🧰 AA - Aprendizaje Autónomo 
 - AA 1. Herramientras digital para pseudocódigo y digrama de flujo
