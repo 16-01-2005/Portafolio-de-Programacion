@@ -28,7 +28,7 @@
 #### ✅ Diagrama de Flujo
 <img width="510" height="689" alt="image" src="https://github.com/user-attachments/assets/6c234b3e-55ed-474b-949b-0f28f72d92f4" />
 
-#### Pruebas de Escritorio
+#### ✅ Pruebas de Escritorio
 
 | Venta Vehiculo|      Comosion = (Venta Vehiculo * 4) / 100 |          Venta Final = Venta - Comsion |
 |---------------|--------------------------------------------|----------------------------------------|
