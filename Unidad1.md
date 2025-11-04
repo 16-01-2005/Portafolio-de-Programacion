@@ -52,11 +52,8 @@
 - 📝 Escribir programas básicos que lean y muestren cadenas.  
 - 🔡 Aplicar funciones de `<string.h>` para analizar y modificar texto.  
 - ⚙️ Crear ejercicios que combinen variables, operadores y cadenas.  
-- 🗂️ Crear seudocodigos en pseint y diagrama de flujo
 
-- https://drive.google.com/drive/folders/1OpWlRFN7Fy5rCB5rr4fL5B_j8_B08o3g
-
-## ⚙️ACD - Aprendizaje Contacto con el Docente 
+### ⚙️ACD - Aprendizaje Contacto con el Docente 
 - 🔗 [ACD](Aprendizaje.md)
 
 ### 🧰 AA - Aprendizaje Autónomo 
@@ -91,8 +88,9 @@
 - 📄 Acceso completo a los materiales, prácticas y proyectos desarrollados durante el curso.
 
 - https://drive.google.com/drive/folders/1h-xeqlYcn4PQkfEFcYy5ox6T9bdCMFsK
+- 🗂️ Crear seudocodigos en pseint y diagrama de flujo
 
-
+- https://drive.google.com/drive/folders/1OpWlRFN7Fy5rCB5rr4fL5B_j8_B08o3g
 ---
 
 🏠 [Portafolio](portafolio.md)
