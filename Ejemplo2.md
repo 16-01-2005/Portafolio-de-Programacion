@@ -57,6 +57,6 @@
 
 <img width="718" height="287" alt="image" src="https://github.com/user-attachments/assets/3d90fde0-c14d-4d70-8358-5603d80f32e8" />
 
-🛠️ [Ejemplo 2](Ejemplo2.md)
+🛠️ [Ejemplo 1](Ejemplo.md)
 🏠 [Unidad 1 ](Unidad1.md)
 
