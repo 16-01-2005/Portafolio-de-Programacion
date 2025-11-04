@@ -64,7 +64,7 @@
 - APE 2. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
    - 🗂️ [APE 2.](APE2.pdf)
 - Debugging Challenge: “Cazadores de Bugs” 
-   - 🗂️ [Cazador de bugs](Bugs.pdf)
+   - 🗂️ [Cazadores de bugs](Bugs.pdf)
 
 ### 🧰 AA - Aprendizaje Autónomo 
 - AA 1. Herramientras digital para pseudocódigo y digrama de flujo
