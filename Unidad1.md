@@ -61,7 +61,7 @@
 
 - 🗂️ [APE 1.](APE1.pdf)
 - 🗂️ [APE 2.](APE2.pdf)
-- 🗂️ [Cazador de bugs.](Bugs.pdf)
+- 🗂️ [Cazador de bugs](Bugs.pdf)
 
 ### 🧰 AA - Aprendizaje Autónomo 
 - AA 1. Herramientras digital para pseudocódigo y digrama de flujo
