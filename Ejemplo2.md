@@ -24,10 +24,11 @@
 
 <img width="510" height="689" alt="image" src="https://github.com/user-attachments/assets/6c234b3e-55ed-474b-949b-0f28f72d92f4" />
 
-| Venta Vehiculo| Comosion = (Venta Vehiculo * 4) | Venta Final = Venta - Comsion |
-|---------------|---------------------------------|-------------------------------|
-| Dato 1     | Dato 2     | Dato 3     |
-| Dato A     | Dato B     | Dato C     |
+| Venta Vehiculo|      Comosion = (Venta Vehiculo * 4) / 100 |          Venta Final = Venta - Comsion |
+|---------------|--------------------------------------------|----------------------------------------|
+| 25.000     	| Comsion = (25.000 *4) / 100 = 1000         | Venta Final = 25.000 - 1000 = 24.000   |
+| 35.000    	| Comsion = (35.000 *4) / 100 = 1400         | Venta Final = 35.000 - 1400 = 14.000   |
+| Dat			| Comsion = (25.000 *4) / 100			     | 					 Dato 3		|	
 
 
 
