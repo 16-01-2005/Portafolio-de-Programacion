@@ -28,7 +28,7 @@
 ## 📚 **Referencias**  
 
 ### **Referencias Unidad 1**
-[Ir a Portada→](Referencias1.md)
+[Ir a Referencias Unidad 1→](Referencias1.md)
 
 ---
 
