@@ -10,7 +10,7 @@
 ### 🧩 Rompecabezas 3
 <img width="1857" height="928" alt="image" src="https://github.com/user-attachments/assets/08bd3c13-6acb-4874-b99c-6d573e42eebe" />
 
-
+´´´
 ## 🧩 Laberinto 
 ### 🧩 Laberinto 1: Nos pide llegar a la meta, lo que se necesita avanzar dos veces en linea recta 
 <img width="1861" height="928" alt="image" src="https://github.com/user-attachments/assets/ee9d0f76-659d-47ec-8e9b-06f88356484a" />
@@ -52,7 +52,7 @@
 <img width="1864" height="935" alt="image" src="https://github.com/user-attachments/assets/762046b2-669e-4982-9961-1ebc4e00a272" />
 <img width="1864" height="923" alt="image" src="https://github.com/user-attachments/assets/b7fd23be-6df8-446e-ab61-5bfb59111719" />
 
-
+´´´
 # 🧩 *Programación visual en Pilasbloques*
 
 <img width="1830" height="933" alt="image" src="https://github.com/user-attachments/assets/af276db3-5519-4b10-8ff1-d8bf482f4f46" />
