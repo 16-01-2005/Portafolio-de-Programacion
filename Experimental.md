@@ -1,9 +1,10 @@
 # 🧠 *Programación visual en Blockly games*
-
+## Rompecabezas
+### Rompecabezas 1: Nos pide ordenar cada animal con sus respectivas caracteristicas 
 <img width="1855" height="932" alt="image" src="https://github.com/user-attachments/assets/8644d14c-9a81-49c1-908f-53e5743209da" />
-
+### Rompecabezas 2
 <img width="1817" height="906" alt="image" src="https://github.com/user-attachments/assets/aefbe291-744d-42a6-b5a6-5be77eb5603d" />
-
+### Rompecabezas 3
 <img width="1857" height="928" alt="image" src="https://github.com/user-attachments/assets/08bd3c13-6acb-4874-b99c-6d573e42eebe" />
 
 Labertinto 
