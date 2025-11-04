@@ -53,13 +53,13 @@
 - 🔡 Aplicar funciones de `<string.h>` para analizar y modificar texto.  
 - ⚙️ Crear ejercicios que combinen variables, operadores y cadenas.  
 
+### ⚙️ACD - Aprendizaje Contacto con el Docente 
+- 🔗 [ACD](Aprendizaje.md)
+  
 ### 🧰 APE - Aprendizaje Práctico Experimental
 - 🗂️ [Juegos de Aprendizaje Práctico Experimental](Experimental.md)
 
 -  https://drive.google.com/drive/folders/1vz_cm870nCXTpeMzgnBj8_ZaAEO1_PpZ
-
-### ⚙️ACD - Aprendizaje Contacto con el Docente 
-- 🔗 [ACD](Aprendizaje.md)
 
 ### 🧰 AA - Aprendizaje Autónomo 
 - AA 1. Herramientras digital para pseudocódigo y digrama de flujo
