@@ -1,6 +1,9 @@
 # 🧠 *Ejemplo 2* 
+#### Problema
 ### 🧩 **El problema nos pide calcular la comisión de la venta de un asesor que realiza ventas de carros, se calcula con la siguiete formula comsion = (venta por 4 )/ 100 y tambien se ingresa cual es total de la venta, al final se imprime la comisión de la venta y cual es el total de la venta**
-    	Algoritmo calculoComision
+
+#### ✅ Pseudocodigo 
+		Algoritmo calculoComision
 
     	// Se declaran las variables reales
     	Definir comision, venta Como Real
@@ -22,7 +25,10 @@
 		FinAlgoritmo
 
 
+#### ✅ Diagrama de Flujo
 <img width="510" height="689" alt="image" src="https://github.com/user-attachments/assets/6c234b3e-55ed-474b-949b-0f28f72d92f4" />
+
+#### Pruebas de Escritorio
 
 | Venta Vehiculo|      Comosion = (Venta Vehiculo * 4) / 100 |          Venta Final = Venta - Comsion |
 |---------------|--------------------------------------------|----------------------------------------|
@@ -31,6 +37,7 @@
 | 1500			| Comsion = (1500 *4) / 100	= 60	         | Venta Final = 1500 - 60 = 1440         |	
 
 
+#### ✅ Codgio en C
 
 		#include <stdio.h>
 		
@@ -56,6 +63,7 @@
 		return 0;
 		}
 
+#### ✅ Ejecución del Programa
 <img width="718" height="287" alt="image" src="https://github.com/user-attachments/assets/3d90fde0-c14d-4d70-8358-5603d80f32e8" />
 
 🛠️ [Ejemplo 1](Ejemplo.md)
