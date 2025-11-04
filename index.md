@@ -1,5 +1,5 @@
 <div align="center">
-<img width="448" height="154" alt="image" src="https://github.com/user-attachments/assets/85cacb6f-d71c-4958-805f-849712c47466" />
+<img width="220" height="200" alt="image" src="https://github.com/user-attachments/assets/00f5095f-8ecc-4505-a2c3-d7e4aa7a5666" />
 
   
 # 💻**PORTAFOLIO DIGITAL DE APRENDIZAJE DE TEORÍA DE LA PROGRAMACIÓN**  
@@ -17,6 +17,5 @@
 
 [Ir a Portafolio→](portafolio.md)
 
-<img width="340" height="341" alt="image" src="https://github.com/user-attachments/assets/00f5095f-8ecc-4505-a2c3-d7e4aa7a5666" />
 
 </div>
