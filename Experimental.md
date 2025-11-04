@@ -22,11 +22,39 @@ Labertinto
 <img width="1861" height="933" alt="image" src="https://github.com/user-attachments/assets/becf1006-d687-45b5-b714-c9a2efa85b04" />
 <img width="1862" height="930" alt="image" src="https://github.com/user-attachments/assets/8e12e4a1-85db-4a1f-9507-a94719b3f284" />
 6
-
+<img width="1862" height="924" alt="image" src="https://github.com/user-attachments/assets/33c44997-f3a9-4178-bd9f-737a8b47d6c4" />
+<img width="1858" height="921" alt="image" src="https://github.com/user-attachments/assets/df015904-061b-4ed6-ab65-97bf24bc87c6" />
+7 
+<img width="1863" height="932" alt="image" src="https://github.com/user-attachments/assets/2fff5663-e0d8-4958-adf2-be1cb0f2650f" />
+<img width="1857" height="929" alt="image" src="https://github.com/user-attachments/assets/97e4549a-674a-4077-8ae8-205df4b29885" />
+8
+<img width="1862" height="936" alt="image" src="https://github.com/user-attachments/assets/920abb8b-2043-4bb9-89cf-2a498b9f10e1" />
+<img width="1867" height="932" alt="image" src="https://github.com/user-attachments/assets/b60f64b8-8c92-4456-948a-724a3aee1c51" />
+9
+<img width="1860" height="937" alt="image" src="https://github.com/user-attachments/assets/ef883c92-f673-4ca4-82c1-2ee35c345021" />
+<img width="1865" height="935" alt="image" src="https://github.com/user-attachments/assets/a7e8bfc3-d84d-4477-9964-c88a5babbea7" />
+10
+<img width="1864" height="935" alt="image" src="https://github.com/user-attachments/assets/762046b2-669e-4982-9961-1ebc4e00a272" />
+<img width="1864" height="923" alt="image" src="https://github.com/user-attachments/assets/b7fd23be-6df8-446e-ab61-5bfb59111719" />
 
 
 # 🧩 *Programación visual en Pilasbloques*
 
 <img width="1830" height="933" alt="image" src="https://github.com/user-attachments/assets/af276db3-5519-4b10-8ff1-d8bf482f4f46" />
+1
+<img width="1863" height="931" alt="image" src="https://github.com/user-attachments/assets/637d5aae-4315-481a-bd8b-4b99c7d3dd50" />
+2
+<img width="1863" height="930" alt="image" src="https://github.com/user-attachments/assets/9c0a58e8-a579-4a56-a2f9-acd16a6fc717" />
+3
+<img width="1862" height="918" alt="image" src="https://github.com/user-attachments/assets/57e47235-a58d-4c8a-a683-c859aca80631" />
+4
+<img width="1861" height="930" alt="image" src="https://github.com/user-attachments/assets/c9a62234-2a77-448b-9730-880c4fe4c83d" />
+5
+<img width="1864" height="933" alt="image" src="https://github.com/user-attachments/assets/fd275429-700d-4799-9f56-fe30aff539df" />
+6
+<img width="1860" height="932" alt="image" src="https://github.com/user-attachments/assets/1e2e19ad-b1cc-4130-bc1d-39a29f29997b" />
+
+
+
 
 [Unidad 1](Unidad1.md)
