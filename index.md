@@ -17,4 +17,6 @@
 
 [Ir a Portafolio→](portafolio.md)
 
+<img width="340" height="341" alt="image" src="https://github.com/user-attachments/assets/00f5095f-8ecc-4505-a2c3-d7e4aa7a5666" />
+
 </div>
