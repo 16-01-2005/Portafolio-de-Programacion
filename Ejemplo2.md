@@ -1,4 +1,4 @@
-# 🧠 Ejemplo 2 
+# 🧠 *Ejemplo 2* 
 ### 🧩 **El problema nos pide calcular la comisión de la venta de un asesor que realiza ventas de carros, se calcula con la siguiete formula comsion = (venta por 4 )/ 100 y tambien se ingresa cual es total de la venta, al final se imprime la comisión de la venta y cual es el total de la venta**
     	Algoritmo calculoComision
 
