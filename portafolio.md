@@ -33,8 +33,7 @@
 ---
 
 ## 🤖 **Uso de la IA Generativa**  
-- Use la IA para poder ingresar imagenes y poder ajustar el tamaña de as mismas
-- Use la Ia para que me de la lista de emojis los cuales los utilize en cada etapa
+-Al desarrollar este portafolio, utilicé herramientas de IA generativa principalmente para mejorar la escritura, estructurar ideas y aclarar conceptos de       programación en C. La IA me permitió comprender la lógica de los algoritmos más rápido, verificar errores comunes y crear explicaciones más claras de cómo   funciona el código. Además, apoyó la presentación visual del portafolio, lo que me ayudó a formatear el contenido correctamente en Markdown y crear una       presentación más profesional y organizada. Sin embargo, el proceso de análisis, razonamiento y resolución de problemas se realizó de forma presencial         utilizando la inteligencia artificial sólo como una herramienta adicional de apoyo al aprendizaje.
 ---
 
 ✍️ **Autor:** *Ricardo Mathias Ochoa Armijos*  
