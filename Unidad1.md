@@ -76,14 +76,21 @@
 ---
 
 ### 🧠 **Reflexión Personal**
-> 💬*Durante esta unidad entendí la estructura del lenguaje C y su pprocesamiento  de datos. También aprendí a organizar mis ideas de forma más estructurada, lo que facilitó el proceso de programación. Dado que el  trabajo con cadenas me ayudo a entender cómo C gestiona la memoria y los caracteres de manera eficiente y controlada, reforzando mi capacidad para desarrollar programas más estables y optimizados.*  
+<p align="justify">
+💬 <i>Durante esta unidad comprendí la estructura del lenguaje C y su procesamiento de datos. También aprendí a organizar mis ideas de forma más estructurada, lo que facilitó el proceso de programación. El trabajo con cadenas me ayudó a entender cómo C gestiona la memoria y los caracteres de manera eficiente y controlada, reforzando mi capacidad para desarrollar programas más estables y optimizados.</i>
+</p>
+
 
 ---
 ### 🧠 **Conclusiones**
-> 💬*El desarrollo de algoritmos y su implementación en lenguaje C constituye la base para una solución eficaz a los problemas computacionales. Dado que los algoritmos nos permiten estructurar el pensamiento lógico, dividir un problema complejo en pasos claros y definir procesos precisos que una computadora puede realizar. Utilizando el lenguaje C, estos algoritmos se transforman en soluciones funcionales, optimizadas y de alto rendimiento gracias a su proximidad al hardware y al control detallado de la memoria y los recursos.*
+<p align="justify">
+💬 <i>El desarrollo de algoritmos y su implementación en el lenguaje C constituyen la base para lograr soluciones eficaces a los problemas computacionales. Los algoritmos permiten estructurar el pensamiento lógico, dividir un problema complejo en pasos claros y definir procesos precisos que una computadora puede ejecutar. Al utilizar el lenguaje C, estos algoritmos se transforman en soluciones funcionales, optimizadas y de alto rendimiento, gracias a su cercanía al hardware y al control detallado de la memoria y los recursos del sistema.</i>
+</p>
 
+<p align="justify">
+💬 <i>Las herramientas de programación, como los entornos de desarrollo, depuradores y compiladores, complementan el proceso de creación y facilitan la detección de errores, la optimización del código y el análisis del flujo lógico de ejecución. El uso combinado de algoritmos y herramientas fortalece la capacidad del programador para razonar de manera estructurada, eficiente y creativa, fomentando un pensamiento computacional sólido y aplicable a cualquier área de la informática.</i>
+</p>
 
-> 💬*Las herramientas de programación como entornos de desarrollo, depuradores y compiladores complementan este proceso y facilitan la detección de errores, la optimización del código y el análisis del flujo de ejecución lógica. Los algoritmos y herramientas en conjunto fortalecen la capacidad del programador para razonar de manera estructurada, eficiente y creativa, fomentando un pensamiento computacional robusto aplicable a cualquier área de la informática.*
 
 ---
 
