@@ -43,7 +43,7 @@
 
    - Uso del entorno de desarrollo VS Code.
 
-     <img width="1408" height="875" alt="image" src="https://github.com/user-attachments/assets/f4d5ec1a-ac64-4db2-bb9a-d0a6e054900c" />
+     <img width="848" height="575" alt="image" src="https://github.com/user-attachments/assets/f4d5ec1a-ac64-4db2-bb9a-d0a6e054900c" />
 
 
 2. 🔢 **Tipos de datos y variables**  
