@@ -37,8 +37,14 @@
 
      <img width="504" height="164" alt="image" src="https://github.com/user-attachments/assets/f5a12fd2-709d-4e7d-97a9-705a850d6ced" />
 
-   - Proceso de compilación y ejecución.  
-   - Uso del entorno de desarrollo VS Code.  
+   - Proceso de compilación y ejecución.
+
+     <img width="731" height="164" alt="image" src="https://github.com/user-attachments/assets/40664f50-91fd-4f05-98a2-82cbc445dff9" />
+
+   - Uso del entorno de desarrollo VS Code.
+
+     <img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/f4d5ec1a-ac64-4db2-bb9a-d0a6e054900c" />
+
 
 2. 🔢 **Tipos de datos y variables**  
    - Tipos de datos primitivos: `int`, `float`, `double`, `char`.  
