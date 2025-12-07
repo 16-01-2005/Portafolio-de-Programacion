@@ -62,7 +62,20 @@
          Almacena un solo carácter, pero realmente guarda un número entero (código ASCII).
          Por eso 'A', 'b' o '9' son valores válidos.
 
-   - Declaración e inicialización de variables.  
+   - Declaración e inicialización de variables.
+
+         Declarar una variable en C es indicar su tipo y su nombre, por ejemplo:
+
+         int edad;
+
+         Inicializar es asignarle un valor por primera vez:
+
+         edad = 20;
+
+         También puedes declarar e inicializar en una sola línea:
+
+         int edad = 20;
+
    - Constantes y uso de `#define`.  
    - Reglas de nomenclatura en C.  
 
