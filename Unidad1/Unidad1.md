@@ -119,108 +119,99 @@
       >🧠*Los operadores aritméticos permiten realizar cálculos matemáticos en C.
          Son simples, pero forman la base de cualquier lógica numérica.*
 
-      >🧠 + Suma
+      >🧠 + Suma:
          Suma dos valores.
          Ejemplo: a + b
 
-      >🧠 - Resta
+      >🧠 - Resta:
          Resta un valor de otro.
          Ejemplo: a - b
       
-      >🧠 * Multiplicación
+      >🧠 * Multiplicación:
          Multiplica dos valores.
          Ejemplo: a * b
      
-      >🧠 / División
+      >🧠 / División:
          Divide un valor entre otro.
          En enteros, la división es entera.
          Ejemplo: a / b
      
-      >🧠 % Módulo
+      >🧠 % Módulo:
          Devuelve el residuo de una división entre enteros.
          Ejemplo: a % b*
 
    - ### Operadores relacionales: `==`, `!=`, `<`, `>`, `<=`, `>=`.
 
-         Los operadores relacionales se usan para comparar valores. Su resultado siempre es verdadero (1) o falso (0).
+      >🧠*Los operadores relacionales se usan para comparar valores. Su resultado siempre es verdadero (1) o falso (0).*
 
-         Estos son los operadores relacionales en C:
          
-         == Igual a
+      >🧠 == Igual a:
          Comprueba si dos valores son iguales.
          Ejemplo: a == b
          
-         != Diferente de
+      >🧠 != Diferente de:
          Comprueba si dos valores son distintos.
          Ejemplo: a != b
          
-         > Mayor que
+       >🧠 > Mayor que:
          Verifica si un valor es mayor que otro.
          Ejemplo: a > b
          
-         < Menor que
+       >🧠 < Menor que:
          Verifica si un valor es menor que otro.
          Ejemplo: a < b
          
-         >= Mayor o igual que
+       >🧠 >= Mayor o igual que:
          Ejemplo: a >= b
          
-         <= Menor o igual que
+       >🧠 <= Menor o igual que:
          Ejemplo: a <= b
 
    - ### Operadores lógicos: `&&`, `||`, `!`.
   
-         Los operadores lógicos permiten combinar condiciones y evaluar expresiones más complejas.
-         Su resultado siempre es verdadero (1) o falso (0).
+       >🧠 *Los operadores lógicos permiten combinar condiciones y evaluar expresiones más complejas.
+         Su resultado siempre es verdadero (1) o falso (0).*
 
-         Los operadores lógicos en C son:
          
-         && AND lógico
+       >🧠 && AND lógico:
          Solo es verdadero cuando ambas condiciones son verdaderas.
          Ejemplo:
-         
          (a > 0 && b > 0)
          
-         || OR lógico
+       >🧠 || OR lógico:
          Es verdadero si al menos una de las condiciones es verdadera.
          Ejemplo:
-         
          (a > 0 || b > 0)
          
-         ! NOT lógico
+       >🧠 ! NOT lógico:
          Invierte el valor lógico: verdadero pasa a falso y viceversa.
          Ejemplo:
-         
          !(a > 0)
 
    - ### Precedencia y asociación de operadores.
   
-         La precedencia de operadores indica qué operación se evalúa primero cuando varias aparecen en una misma expresión.
-         La asociación indica en qué dirección se evalúan los operadores cuando tienen la misma precedencia.
+       >🧠 *La precedencia de operadores indica qué operación se evalúa primero cuando varias aparecen en una misma expresión.
+         La asociación indica en qué dirección se evalúan los operadores cuando tienen la misma precedencia.*
    
-         En C, las reglas esenciales son estas:
-         
-         Precedencia (de mayor a menor):
-         
-         () – Paréntesis
+                  
+       >🧠  () – Paréntesis:
          Siempre se evalúan primero.
          
-         !, incremento/decremento (++, --), casteos
+       >🧠   !, incremento/decremento (++, --), casteos:
          Operadores unarios.
          
-         *, /, %
+       >🧠  *, /, %:
          Multiplicación, división y módulo.
          
-         +, -
+       >🧠  +, -:
          Suma y resta.
          
-         Relacionales: <, <=, >, >=
+       >🧠  Relacionales: <, <=, >, >=
          
-         Igualdad: ==, !=
+       >🧠  Igualdad: ==, !=
          
-         Lógicos:
+       >🧠  Lógicos:
          && se evalúa antes que ||.
-         
          = – Asignación
          Se evalúa casi al final.
 
