@@ -33,7 +33,10 @@
       
       > 💬*Un algoritmo debe ser finito, de tiempo finito, su ejecución debe concluir en algún momento.*
 ---
-   - Estructura básica de un programa en C.  
+   - Estructura básica de un programa en C.
+
+     <img width="504" height="164" alt="image" src="https://github.com/user-attachments/assets/f5a12fd2-709d-4e7d-97a9-705a850d6ced" />
+
    - Proceso de compilación y ejecución.  
    - Uso del entorno de desarrollo VS Code.  
 
