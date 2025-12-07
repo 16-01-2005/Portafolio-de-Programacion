@@ -117,7 +117,8 @@
 2. ⚙️ **Operadores y expresiones**  
    - Operadores aritméticos: `+`, `-`, `*`, `/`, `%`.
 
-         Los operadores aritméticos permiten realizar cálculos matemáticos en C. Son simples, pero forman la base de cualquier lógica numérica.
+         Los operadores aritméticos permiten realizar cálculos matemáticos en C.
+         Son simples, pero forman la base de cualquier lógica numérica.
 
          Operadores aritméticos básicos en C:
          
@@ -172,7 +173,8 @@
 
    - Operadores lógicos: `&&`, `||`, `!`.
   
-         Los operadores lógicos permiten combinar condiciones y evaluar expresiones más complejas. Su resultado siempre es verdadero (1) o falso (0).
+         Los operadores lógicos permiten combinar condiciones y evaluar expresiones más complejas.
+         Su resultado siempre es verdadero (1) o falso (0).
 
          Los operadores lógicos en C son:
          
@@ -196,7 +198,8 @@
 
    - Precedencia y asociación de operadores.
   
-         La precedencia de operadores indica qué operación se evalúa primero cuando varias aparecen en una misma expresión. La asociación indica en qué               dirección se evalúan los operadores cuando tienen la misma precedencia.
+         La precedencia de operadores indica qué operación se evalúa primero cuando varias aparecen en una misma expresión.
+         La asociación indica en qué dirección se evalúan los operadores cuando tienen la misma precedencia.
    
          En C, las reglas esenciales son estas:
          
