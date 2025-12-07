@@ -49,19 +49,19 @@
 2. 🔢 **Tipos de datos y variables**  
    - Tipos de datos primitivos: `int`, `float`, `double`, `char`.
    
-         1. int
+     > 💬1. int
          Representa números enteros. Es el tipo más común para contar, sumar o manejar valores sin decimales.
-         2. float
+     > 💬2. float
          Sirve para números reales con punto decimal, pero con precisión moderada.
-         3. double
+     > 💬3. double
          Es como el float, pero con mayor precisión. Se usa cuando los cálculos necesitan exactitud más alta.
-         4. char
+     > 💬4. char
          Almacena un solo carácter, pero realmente guarda un número entero.
          Por eso 'A', 'b' o '9' son valores válidos.
 
    - Declaración e inicialización de variables.
 
-         Declarar una variable en C es indicar su tipo y su nombre, por ejemplo:
+      > 💬   Declarar una variable en C es indicar su tipo y su nombre, por ejemplo:
          int edad;
          Inicializar es asignarle un valor por primera vez:
          edad = 20;
@@ -70,20 +70,20 @@
 
    - Constantes y uso de `#define`.
 
-         Una constante es un valor que no cambia durante la ejecución del programa. Se usa cuando necesitas asegurar
+      > 💬   Una constante es un valor que no cambia durante la ejecución del programa. Se usa cuando necesitas asegurar
          que un dato permanezca fijo.
      
          Constante con const:
          const int PI = 3.14;
      
-         Aquí PI no puede modificarse en ninguna parte del código.
+   > 💬      Aquí PI no puede modificarse en ninguna parte del código.
          Constante con #define:
          #define PI 3.14
      
-         Este método no crea una variable; el preprocesador reemplaza cada PI por 3.14 antes de compilar.
+  > 💬       Este método no crea una variable; el preprocesador reemplaza cada PI por 3.14 antes de compilar.
          Se usa para valores globales, mensajes, tamaños o configuraciones.
      
-         Diferencia esencial:
+   > 💬      Diferencia esencial:
          const crea una variable protegida.
          #define hace un reemplazo textual antes de compilar.      
 
