@@ -24,7 +24,7 @@
 
 ---
 ## 🧩 **Temas Principales**
-##1. 🧾 **Introducción al lenguaje C**  
+## 1. 🧾 **Introducción al lenguaje C**  
    - ### Características del lenguaje C.
    
       > 💬*Un algoritmo debe ser preciso, indicar el orden de cada paso de manera clara y sin ambigüedades.*
