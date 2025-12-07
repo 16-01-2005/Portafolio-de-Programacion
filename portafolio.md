@@ -11,7 +11,7 @@
 ---
 
 ### 💡 **UNIDAD 2 – Estructuras de Control y Algoritmos**  
-🧩 
+🧩 *Estructuras Algorítmicas Condicionales, estructuras Algorítmicas Repetitivas*
 🔗 [Ver contenido de la Unidad 2 →](Unidad2/Unidad2.md)
 ---
 
