@@ -100,7 +100,8 @@
          En la práctica, para mantener código limpio se suele usar estilo snake_case
          int numero_estudiantes;
          float promedio_final;
-         Estas reglas aseguran que el compilador interprete perfectamente cada identificador y que el código sea claro y profesional.
+         Estas reglas aseguran que el compilador interprete perfectamente cada identificador
+         y que el código sea claro y profesional.
 
 2. ⚙️ **Operadores y expresiones**  
    - Operadores aritméticos: `+`, `-`, `*`, `/`, `%`.  
