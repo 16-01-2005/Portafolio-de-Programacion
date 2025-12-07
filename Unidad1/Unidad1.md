@@ -72,13 +72,17 @@
 
          Una constante es un valor que no cambia durante la ejecución del programa. Se usa cuando necesitas asegurar
          que un dato permanezca fijo.
+     
          Constante con const:
          const int PI = 3.14;
+     
          Aquí PI no puede modificarse en ninguna parte del código.
          Constante con #define:
          #define PI 3.14
+     
          Este método no crea una variable; el preprocesador reemplaza cada PI por 3.14 antes de compilar.
          Se usa para valores globales, mensajes, tamaños o configuraciones.
+     
          Diferencia esencial:
          const crea una variable protegida.
          #define hace un reemplazo textual antes de compilar.      
@@ -87,15 +91,22 @@
 
          Un identificador en C (nombre de variable, constante, función, etc.) debe cumplir estas reglas esenciales:
          Debe empezar con una letra o guion bajo (_)
+     
          Ejemplos válidos: edad, _contador
          Ejemplo inválido: 3valor
          Después del primer carácter puede llevar letras, números o guion bajo
          Ejemplo válido: nota_final1
+     
          No puede contener espacios ni caracteres especiales
+     
          No se permiten -, ?, @, ñ, etc.
+     
          No puede ser una palabra reservada del lenguaje
+     
          No puedes usar nombres como int, return, float, if.
+     
          C distingue entre mayúsculas y minúsculas
+     
          Edad, edad y EDAD son nombres totalmente diferentes.
          En la práctica, para mantener código limpio se suele usar estilo snake_case
          int numero_estudiantes;
