@@ -54,10 +54,10 @@
 - ⚙️ Crear ejercicios que combinen variables, operadores y cadenas.  
 
 ### ⚙️ACD - Aprendizaje Contacto con el Docente 
-- 🔗 [ACD](Unidad1/Aprendizaje.md)
+- 🔗 [ACD](Aprendizaje.md)
   
 ### 🧰 APE - Aprendizaje Práctico Experimental
-- 🗂️ [Juegos de Aprendizaje Práctico Experimental](Unidad1/Experimental.md)
+- 🗂️ [Juegos de Aprendizaje Práctico Experimental](Experimental.md)
 
 - A P E 1. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
    - 🗂️ [APE 1.](Unidad1/APE1.pdf)
