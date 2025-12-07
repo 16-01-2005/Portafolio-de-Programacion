@@ -47,18 +47,32 @@
 
 
 2. 🔢 **Tipos de datos y variables**  
-   - Tipos de datos primitivos: `int`, `float`, `double`, `char`.  
+   - Tipos de datos primitivos: `int`, `float`, `double`, `char`.
+   
+         1. int
+         Representa números enteros. Es el tipo más común para contar, sumar o manejar valores sin decimales.
+
+         2. float
+         Sirve para números reales con punto decimal, pero con precisión moderada.
+
+         3. double
+         Es como el float, pero con mayor precisión. Se usa cuando los cálculos necesitan exactitud más alta.
+
+         4. char
+         Almacena un solo carácter, pero realmente guarda un número entero (código ASCII).
+         Por eso 'A', 'b' o '9' son valores válidos.
+
    - Declaración e inicialización de variables.  
    - Constantes y uso de `#define`.  
    - Reglas de nomenclatura en C.  
 
-3. ⚙️ **Operadores y expresiones**  
+2. ⚙️ **Operadores y expresiones**  
    - Operadores aritméticos: `+`, `-`, `*`, `/`, `%`.  
    - Operadores relacionales: `==`, `!=`, `<`, `>`, `<=`, `>=`.  
    - Operadores lógicos: `&&`, `||`, `!`.  
    - Precedencia y asociación de operadores.  
 
-4. 🔤 **Estructura de cadenas en C**  
+3. 🔤 **Estructura de cadenas en C**  
    - Declaración de cadenas: uso de arreglos de tipo `char`.  
    - Inicialización de cadenas y el carácter nulo `'\0'`.  
    - Lectura y escritura de cadenas: `scanf()`, `gets()`, `fgets()`, `printf()`, `puts()`.  
