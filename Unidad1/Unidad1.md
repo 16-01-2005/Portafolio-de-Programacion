@@ -78,8 +78,8 @@
 
    - Constantes y uso de `#define`.
 
-         Una constante es un valor que no cambia durante la ejecución del programa. Se usa cuando necesitas asegurar que un dato
-         permanezca fijo.
+         Una constante es un valor que no cambia durante la ejecución del programa. Se usa cuando necesitas asegurar
+         que un dato permanezca fijo.
 
          Constante con const:
 
