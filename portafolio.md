@@ -12,7 +12,7 @@
 
 ### 💡 **UNIDAD 2 – Estructuras de Control y Algoritmos**  
 🧩 
-
+🔗 [Ver contenido de la Unidad 2 →](Unidad2.md)
 ---
 
 ### 🚀 **UNIDAD 3 – Diseño y Optimización de Programas**  
