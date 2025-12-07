@@ -76,7 +76,28 @@
 
          int edad = 20;
 
-   - Constantes y uso de `#define`.  
+   - Constantes y uso de `#define`.
+
+         Una constante es un valor que no cambia durante la ejecución del programa. Se usa cuando necesitas asegurar que un dato permanezca fijo.
+
+         Constante con const:
+
+         const int PI = 3.14;
+
+
+         Aquí PI no puede modificarse en ninguna parte del código.
+
+         Constante con #define:
+
+         #define PI 3.14
+
+
+Este método no crea una variable; el preprocesador reemplaza cada PI por 3.14 antes de compilar. Se usa para valores globales, mensajes, tamaños o configuraciones.
+
+Diferencia esencial:
+const crea una variable protegida.
+#define hace un reemplazo textual antes de compilar.      
+
    - Reglas de nomenclatura en C.  
 
 2. ⚙️ **Operadores y expresiones**  
