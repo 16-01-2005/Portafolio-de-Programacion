@@ -25,35 +25,10 @@
 ---
 ### 🧩 **Temas Principales**
 1. 🧾 **Introducción al lenguaje C**  
-   - Características del lenguaje.
-     Características del lenguaje C:
-
->     •Es un lenguaje de bajo nivel
-      Permite trabajar muy cerca del hardware, accediendo directamente a la memoria.
-
-      •Es altamente eficiente
-      Los programas escritos en C son rápidos y consumen pocos recursos.
-
-      •Uso de punteros
-      Ofrece control manual de memoria mediante punteros, una característica que lo distingue de muchos lenguajes modernos.
-
-      •Es portátil
-      El mismo código puede compilarse en diferentes sistemas operativos con cambios mínimos.
-
-      •Sintaxis simple pero poderosa
-      Utiliza pocas palabras reservadas, lo que obliga a una lógica clara.
-
-      •Lenguaje estructurado
-      Permite organizar el código en funciones y módulos para facilitar mantenimiento.
-
-      •Compilado
-      El código se traduce directamente a lenguaje máquina, aumentando velocidad y eficiencia.
-
-      •Amplias bibliotecas estándar
-      Incluye funciones listas para manejar archivos, cadenas, memoria, matemáticas y más.
-
-      •Base de otros lenguajes
-      Lenguajes como C++, Java, C# y muchos más se inspiran directamente en su estructura.
+   - Características del lenguaje C.
+      Un algoritmo debe ser preciso, indicar el orden de cada paso de manera clara y sin ambigüedades.
+      Un algoritmo debe estar definido, si se sigue el algoritmo varias veces con los mismos datos de entrada, los resultados obtenidos deben ser los mismos.
+      Un algoritmo debe ser finito, de tiempo finito, su ejecución debe concluir en algún momento.
 ---
    - Estructura básica de un programa en C.  
    - Proceso de compilación y ejecución.  
