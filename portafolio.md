@@ -6,7 +6,7 @@
 ### 📘 **UNIDAD 1 – Fundamentos de la Programación**  
 📖 *Conceptos básicos, tipos de datos, algoritmos y estructuras iniciales.*
 
-🔗 [Ver contenido de la Unidad 1 →](Unidad1.md)
+🔗 [Ver contenido de la Unidad 1 →](Unidad1/Unidad1.md)
 
 ---
 
