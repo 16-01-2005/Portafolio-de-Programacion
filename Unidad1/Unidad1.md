@@ -51,17 +51,17 @@
    
      > 💬1. int
          Representa números enteros. Es el tipo más común para contar, sumar o manejar valores sin decimales.
-   ---     
+        
      > 💬2. float
          Sirve para números reales con punto decimal, pero con precisión moderada.
-   ---     
+        
      > 💬3. double
          Es como el float, pero con mayor precisión. Se usa cuando los cálculos necesitan exactitud más alta.
-   ---     
+        
      > 💬4. char
          Almacena un solo carácter, pero realmente guarda un número entero.
          Por eso 'A', 'b' o '9' son valores válidos.
----
+
    - Declaración e inicialización de variables.
 
       > 💬Declarar una variable en C es indicar su tipo y su nombre, por ejemplo:
