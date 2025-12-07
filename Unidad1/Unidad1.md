@@ -56,7 +56,7 @@
          3. double
          Es como el float, pero con mayor precisión. Se usa cuando los cálculos necesitan exactitud más alta.
          4. char
-         Almacena un solo carácter, pero realmente guarda un número entero (código ASCII).
+         Almacena un solo carácter, pero realmente guarda un número entero.
          Por eso 'A', 'b' o '9' son valores válidos.
 
    - Declaración e inicialización de variables.
