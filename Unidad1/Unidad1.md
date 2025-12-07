@@ -91,30 +91,27 @@
 
    - ### Reglas de nomenclatura en C.
 
-         Un identificador en C (nombre de variable, constante, función, etc.) debe cumplir estas reglas esenciales:
-         Debe empezar con una letra o guion bajo (_)
+      >🧠*Un identificador en C (nombre de variable, constante, función, etc.) debe cumplir estas reglas esenciales:
+         Debe empezar con una letra o guion bajo (_)*
      
-         Ejemplos válidos: edad, _contador
+      >🧠*Ejemplos válidos: edad, _contador
          Ejemplo inválido: 3valor
          Después del primer carácter puede llevar letras, números o guion bajo
-         Ejemplo válido: nota_final1
+         Ejemplo válido: nota_final1*
      
-         No puede contener espacios ni caracteres especiales
+      >🧠*No puede contener espacios ni caracteres especiales
+          No se permiten -, ?, @, ñ, etc.
+          No puede ser una palabra reservada del lenguaje
+          No puedes usar nombres como int, return, float, if.*
      
-         No se permiten -, ?, @, ñ, etc.
-     
-         No puede ser una palabra reservada del lenguaje
-     
-         No puedes usar nombres como int, return, float, if.
-     
-         C distingue entre mayúsculas y minúsculas
-     
-         Edad, edad y EDAD son nombres totalmente diferentes.
-         En la práctica, para mantener código limpio se suele usar estilo snake_case
-         int numero_estudiantes;
-         float promedio_final;
-         Estas reglas aseguran que el compilador interprete perfectamente cada identificador
-         y que el código sea claro y profesional.
+      >🧠*C distingue entre mayúsculas y minúsculas
+          Edad, edad y EDAD son nombres totalmente diferentes.
+          En la práctica, para mantener código limpio se suele usar estilo snake_case
+          int numero_estudiantes;
+          float promedio_final;*
+      
+      >🧠*Estas reglas aseguran que el compilador interprete perfectamente cada identificador
+          y que el código sea claro y profesional.*
 
 ## 3. ⚙️ **Operadores y expresiones**  
    - ### Operadores aritméticos: `+`, `-`, `*`, `/`, `%`.
