@@ -36,32 +36,32 @@
    - Estructura básica de un programa en C.
 
      <img width="404" height="124" alt="image" src="https://github.com/user-attachments/assets/f5a12fd2-709d-4e7d-97a9-705a850d6ced" />
-
+---
    - Proceso de compilación y ejecución.
 
      <img width="404" height="124" alt="image" src="https://github.com/user-attachments/assets/40664f50-91fd-4f05-98a2-82cbc445dff9" />
-
+---
    - Uso del entorno de desarrollo VS Code.
 
      <img width="408" height="375" alt="image" src="https://github.com/user-attachments/assets/f4d5ec1a-ac64-4db2-bb9a-d0a6e054900c" />
-
+---
 
 2. 🔢 **Tipos de datos y variables**  
    - Tipos de datos primitivos: `int`, `float`, `double`, `char`.
    
      > 💬1. int
          Representa números enteros. Es el tipo más común para contar, sumar o manejar valores sin decimales.
-     
+   ---     
      > 💬2. float
          Sirve para números reales con punto decimal, pero con precisión moderada.
-     
+   ---     
      > 💬3. double
          Es como el float, pero con mayor precisión. Se usa cuando los cálculos necesitan exactitud más alta.
-     
+   ---     
      > 💬4. char
          Almacena un solo carácter, pero realmente guarda un número entero.
          Por eso 'A', 'b' o '9' son valores válidos.
-
+---
    - Declaración e inicialización de variables.
 
       > 💬Declarar una variable en C es indicar su tipo y su nombre, por ejemplo:
@@ -75,11 +75,10 @@
 
       > 💬Una constante es un valor que no cambia durante la ejecución del programa. Se usa cuando necesitas asegurar
          que un dato permanezca fijo.
-     
-         Constante con const:
+        
+      > 💬 Constante con const:
          const int PI = 3.14;
-     
-      > 💬Aquí PI no puede modificarse en ninguna parte del código.
+         Aquí PI no puede modificarse en ninguna parte del código.
          Constante con #define:
          #define PI 3.14
      
