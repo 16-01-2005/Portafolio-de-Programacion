@@ -59,9 +59,9 @@
 ### 🧰 APE - Aprendizaje Práctico Experimental
 - 🗂️ [Juegos de Aprendizaje Práctico Experimental](Experimental.md)
 
-- A P E 1. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
+- APE1. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
    - 🗂️ [APE 1.](APE1.pdf)
-- A P E 2. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
+- APE2. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
    - 🗂️ [APE 2.](APE2.pdf)
 - Debugging Challenge: “Cazadores de Bugs” 
    - 🗂️ [Cazadores de bugs](Bugs.pdf)
