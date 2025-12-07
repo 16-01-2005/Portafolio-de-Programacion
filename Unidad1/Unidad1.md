@@ -1,10 +1,10 @@
-## 📘 UNIDAD 1 — Fundamentos de la Programación en C  
+# 📘 UNIDAD 1 — Fundamentos de la Programación en C  
 
 > 🧭 *Comprender los principios básicos de la programación estructurada en C y desarrollar el pensamiento lógico necesario para resolver problemas mediante algoritmos.*
 
 ---
 
-### 🎯 **Objetivos de la Unidad**
+## 🎯 **Objetivos de la Unidad**
 - 💡 Comprender los conceptos básicos del lenguaje C.  
 - 🧠 Desarrollar el pensamiento lógico y estructurado.  
 - 🧮 Identificar los tipos de datos, variables y operadores en C.  
@@ -12,19 +12,19 @@
 
 ---
 
-### 🔤 Pseudocódigos
+## 🔤 Pseudocódigos
 
 > 💬*El pseucódigo es el paso intermedio de un programa algorítmico, que se expresan mediante símbolos, y los lenguajes de programación. Siendo este un          método que nos ayudara a la programación y solución del algoritmo del programa.*
 
 ---
 
-### 🧠 Driagrama de flujo
+## 🧠 Driagrama de flujo
 
 > 💬*Los diagramas de flujo son aquellas representaciones graficas que permiten la diagramación y el análisis de todos los aspectos relevante, dando de esta       manera los lineamientos para escribir de una manera clara y lógicas.*
 
 ---
-### 🧩 **Temas Principales**
-1. 🧾 **Introducción al lenguaje C**  
+## 🧩 **Temas Principales**
+##1. 🧾 **Introducción al lenguaje C**  
    - Características del lenguaje C.
    
       > 💬*Un algoritmo debe ser preciso, indicar el orden de cada paso de manera clara y sin ambigüedades.*
@@ -46,19 +46,19 @@
      <img width="408" height="375" alt="image" src="https://github.com/user-attachments/assets/f4d5ec1a-ac64-4db2-bb9a-d0a6e054900c" />
 ---
 
-2. 🔢 **Tipos de datos y variables**  
+##2. 🔢 **Tipos de datos y variables**  
    - Tipos de datos primitivos: `int`, `float`, `double`, `char`.
    
-     > 💬1. int
+     > 💬1. int:
          Representa números enteros. Es el tipo más común para contar, sumar o manejar valores sin decimales.
         
-     > 💬2. float
+     > 💬2. float:
          Sirve para números reales con punto decimal, pero con precisión moderada.
         
-     > 💬3. double
+     > 💬3. double:
          Es como el float, pero con mayor precisión. Se usa cuando los cálculos necesitan exactitud más alta.
         
-     > 💬4. char
+     > 💬4. char:
          Almacena un solo carácter, pero realmente guarda un número entero.
          Por eso 'A', 'b' o '9' son valores válidos.
 
@@ -116,7 +116,7 @@
          Estas reglas aseguran que el compilador interprete perfectamente cada identificador
          y que el código sea claro y profesional.
 
-2. ⚙️ **Operadores y expresiones**  
+##3. ⚙️ **Operadores y expresiones**  
    - Operadores aritméticos: `+`, `-`, `*`, `/`, `%`.
 
          Los operadores aritméticos permiten realizar cálculos matemáticos en C.
@@ -229,7 +229,7 @@
          = – Asignación
          Se evalúa casi al final.
 
-2. 🔤 **Estructura de cadenas en C**  
+##4. 🔤 **Estructura de cadenas en C**  
    - Declaración de cadenas: uso de arreglos de tipo `char`.  
    - Inicialización de cadenas y el carácter nulo `'\0'`.  
    - Lectura y escritura de cadenas: `scanf()`, `gets()`, `fgets()`, `printf()`, `puts()`.  
