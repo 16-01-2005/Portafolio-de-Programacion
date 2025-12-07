@@ -115,12 +115,116 @@
          y que el código sea claro y profesional.
 
 2. ⚙️ **Operadores y expresiones**  
-   - Operadores aritméticos: `+`, `-`, `*`, `/`, `%`.  
-   - Operadores relacionales: `==`, `!=`, `<`, `>`, `<=`, `>=`.  
-   - Operadores lógicos: `&&`, `||`, `!`.  
-   - Precedencia y asociación de operadores.  
+   - Operadores aritméticos: `+`, `-`, `*`, `/`, `%`.
 
-3. 🔤 **Estructura de cadenas en C**  
+         Los operadores aritméticos permiten realizar cálculos matemáticos en C. Son simples, pero forman la base de cualquier lógica numérica.
+
+         Operadores aritméticos básicos en C:
+         
+         + Suma
+         Suma dos valores.
+         Ejemplo: a + b
+         
+         - Resta
+         Resta un valor de otro.
+         Ejemplo: a - b
+         
+         * Multiplicación
+         Multiplica dos valores.
+         Ejemplo: a * b
+         
+         / División
+         Divide un valor entre otro.
+         En enteros, la división es entera.
+         Ejemplo: a / b
+         
+         % Módulo
+         Devuelve el residuo de una división entre enteros.
+         Ejemplo: a % b
+
+   - Operadores relacionales: `==`, `!=`, `<`, `>`, `<=`, `>=`.
+
+         Los operadores relacionales se usan para comparar valores. Su resultado siempre es verdadero (1) o falso (0).
+
+         Estos son los operadores relacionales en C:
+         
+         == Igual a
+         Comprueba si dos valores son iguales.
+         Ejemplo: a == b
+         
+         != Diferente de
+         Comprueba si dos valores son distintos.
+         Ejemplo: a != b
+         
+         > Mayor que
+         Verifica si un valor es mayor que otro.
+         Ejemplo: a > b
+         
+         < Menor que
+         Verifica si un valor es menor que otro.
+         Ejemplo: a < b
+         
+         >= Mayor o igual que
+         Ejemplo: a >= b
+         
+         <= Menor o igual que
+         Ejemplo: a <= b
+
+   - Operadores lógicos: `&&`, `||`, `!`.
+  
+         Los operadores lógicos permiten combinar condiciones y evaluar expresiones más complejas. Su resultado siempre es verdadero (1) o falso (0).
+
+         Los operadores lógicos en C son:
+         
+         && AND lógico
+         Solo es verdadero cuando ambas condiciones son verdaderas.
+         Ejemplo:
+         
+         (a > 0 && b > 0)
+         
+         || OR lógico
+         Es verdadero si al menos una de las condiciones es verdadera.
+         Ejemplo:
+         
+         (a > 0 || b > 0)
+         
+         ! NOT lógico
+         Invierte el valor lógico: verdadero pasa a falso y viceversa.
+         Ejemplo:
+         
+         !(a > 0)
+
+   - Precedencia y asociación de operadores.
+  
+         La precedencia de operadores indica qué operación se evalúa primero cuando varias aparecen en una misma expresión. La asociación indica en qué               dirección se evalúan los operadores cuando tienen la misma precedencia.
+   
+         En C, las reglas esenciales son estas:
+         
+         Precedencia (de mayor a menor):
+         
+         () – Paréntesis
+         Siempre se evalúan primero.
+         
+         !, incremento/decremento (++, --), casteos
+         Operadores unarios.
+         
+         *, /, %
+         Multiplicación, división y módulo.
+         
+         +, -
+         Suma y resta.
+         
+         Relacionales: <, <=, >, >=
+         
+         Igualdad: ==, !=
+         
+         Lógicos:
+         && se evalúa antes que ||.
+         
+         = – Asignación
+         Se evalúa casi al final.
+
+2. 🔤 **Estructura de cadenas en C**  
    - Declaración de cadenas: uso de arreglos de tipo `char`.  
    - Inicialización de cadenas y el carácter nulo `'\0'`.  
    - Lectura y escritura de cadenas: `scanf()`, `gets()`, `fgets()`, `printf()`, `puts()`.  
