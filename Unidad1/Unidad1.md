@@ -119,21 +119,24 @@
       >🧠*Los operadores aritméticos permiten realizar cálculos matemáticos en C.
          Son simples, pero forman la base de cualquier lógica numérica.*
 
-      >🧠*Operadores aritméticos básicos en C:
-         + Suma
+      >🧠 + Suma
          Suma dos valores.
          Ejemplo: a + b
-         - Resta
+
+      >🧠 - Resta
          Resta un valor de otro.
          Ejemplo: a - b
-         * Multiplicación
+      
+      >🧠 * Multiplicación
          Multiplica dos valores.
          Ejemplo: a * b
-         / División
+     
+      >🧠 / División
          Divide un valor entre otro.
          En enteros, la división es entera.
          Ejemplo: a / b
-         % Módulo
+     
+      >🧠 % Módulo
          Devuelve el residuo de una división entre enteros.
          Ejemplo: a % b*
 
