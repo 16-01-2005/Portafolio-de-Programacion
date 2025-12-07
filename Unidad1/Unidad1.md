@@ -54,23 +54,23 @@
 - ⚙️ Crear ejercicios que combinen variables, operadores y cadenas.  
 
 ### ⚙️ACD - Aprendizaje Contacto con el Docente 
-- 🔗 [ACD](Aprendizaje.md)
+- 🔗 [ACD](Unidad1/Aprendizaje.md)
   
 ### 🧰 APE - Aprendizaje Práctico Experimental
-- 🗂️ [Juegos de Aprendizaje Práctico Experimental](Experimental.md)
+- 🗂️ [Juegos de Aprendizaje Práctico Experimental](Unidad1/Experimental.md)
 
 - A P E 1. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
-   - 🗂️ [APE 1.](APE1.pdf)
+   - 🗂️ [APE 1.](Unidad1/APE1.pdf)
 - A P E 2. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
-   - 🗂️ [APE 2.](APE2.pdf)
+   - 🗂️ [APE 2.](Unidad1/APE2.pdf)
 - Debugging Challenge: “Cazadores de Bugs” 
-   - 🗂️ [Cazadores de bugs](Bugs.pdf)
+   - 🗂️ [Cazadores de bugs](Unidad1/Bugs.pdf)
 
 ### 🧰 AA - Aprendizaje Autónomo 
 - AA 1. Herramientras digital para pseudocódigo y digrama de flujo
-   - 🗂️ [Tarea 1](Tarea1pdf)
+   - 🗂️ [Tarea 1](Unidad1/Tarea1pdf)
 - AA 2. Instalación de lenguages de programación
-   - 🗂️ [Tarea 2](Tarea2.pdf)
+   - 🗂️ [Tarea 2](Unidad1/Tarea2.pdf)
 
 
 ---
@@ -98,7 +98,7 @@
 - 📄 Capturas de pantalla de programas compilados y ejecutados.
 - 🧮 Ejemplo de un código con explicación línea por línea.
 
-[Ejemplo 1](Ejemplo.md) [Ejemplo 2](Ejemplo2.md)
+[Ejemplo 1](Unidad1/Ejemplo.md) [Ejemplo 2](Unidad1/Ejemplo2.md)
 ### 💾 **Repositorio con todos los archivos del portafolio**
 - 📄 Acceso completo a los materiales, prácticas y proyectos desarrollados durante el curso.
 
