@@ -25,7 +25,7 @@
 ---
 ## 🧩 **Temas Principales**
 ##1. 🧾 **Introducción al lenguaje C**  
-   - Características del lenguaje C.
+   - ### Características del lenguaje C.
    
       > 💬*Un algoritmo debe ser preciso, indicar el orden de cada paso de manera clara y sin ambigüedades.*
       
@@ -46,50 +46,50 @@
      <img width="408" height="375" alt="image" src="https://github.com/user-attachments/assets/f4d5ec1a-ac64-4db2-bb9a-d0a6e054900c" />
 ---
 
-##2. 🔢 **Tipos de datos y variables**  
-   - Tipos de datos primitivos: `int`, `float`, `double`, `char`.
+## 2. 🔢 **Tipos de datos y variables**  
+   - ### Tipos de datos primitivos: `int`, `float`, `double`, `char`.
    
-     > 💬1. int:
-         Representa números enteros. Es el tipo más común para contar, sumar o manejar valores sin decimales.
+     > 💬*1. int:
+         Representa números enteros. Es el tipo más común para contar, sumar o manejar valores sin decimales.*
         
-     > 💬2. float:
-         Sirve para números reales con punto decimal, pero con precisión moderada.
+     > 💬*2. float:
+         Sirve para números reales con punto decimal, pero con precisión moderada.*
         
-     > 💬3. double:
-         Es como el float, pero con mayor precisión. Se usa cuando los cálculos necesitan exactitud más alta.
+     > 💬*3. double:
+         Es como el float, pero con mayor precisión. Se usa cuando los cálculos necesitan exactitud más alta.*
         
-     > 💬4. char:
+     > 💬*4. char:
          Almacena un solo carácter, pero realmente guarda un número entero.
-         Por eso 'A', 'b' o '9' son valores válidos.
+         Por eso 'A', 'b' o '9' son valores válidos.*
 
-   - Declaración e inicialización de variables.
+   - ### Declaración e inicialización de variables.
 
-      > 💬Declarar una variable en C es indicar su tipo y su nombre, por ejemplo:
+      > 💬*Declarar una variable en C es indicar su tipo y su nombre, por ejemplo:
          int edad;
          Inicializar es asignarle un valor por primera vez:
          edad = 20;
          También puedes declarar e inicializar en una sola línea:
-         int edad = 20;
+         int edad = 20;*
 
-   - Constantes y uso de `#define`.
+   - ### Constantes y uso de `#define`.
 
-      > 💬Una constante es un valor que no cambia durante la ejecución del programa. Se usa cuando necesitas asegurar
-         que un dato permanezca fijo.
+      > 💬*Una constante es un valor que no cambia durante la ejecución del programa. Se usa cuando necesitas asegurar
+         que un dato permanezca fijo.*
         
-      > 💬 Constante con const:
+      > 💬*Constante con const:
          const int PI = 3.14;
          Aquí PI no puede modificarse en ninguna parte del código.
          Constante con #define:
-         #define PI 3.14
+         #define PI 3.14*
      
-      > 💬Este método no crea una variable; el preprocesador reemplaza cada PI por 3.14 antes de compilar.
-         Se usa para valores globales, mensajes, tamaños o configuraciones.
+      > 💬*Este método no crea una variable; el preprocesador reemplaza cada PI por 3.14 antes de compilar.
+         Se usa para valores globales, mensajes, tamaños o configuraciones.*
      
-      > 💬Diferencia esencial:
+      > 💬*Diferencia esencial:
          const crea una variable protegida.
-         #define hace un reemplazo textual antes de compilar.      
+         #define hace un reemplazo textual antes de compilar.*    
 
-   - Reglas de nomenclatura en C.
+   - ### Reglas de nomenclatura en C.
 
          Un identificador en C (nombre de variable, constante, función, etc.) debe cumplir estas reglas esenciales:
          Debe empezar con una letra o guion bajo (_)
@@ -116,8 +116,8 @@
          Estas reglas aseguran que el compilador interprete perfectamente cada identificador
          y que el código sea claro y profesional.
 
-##3. ⚙️ **Operadores y expresiones**  
-   - Operadores aritméticos: `+`, `-`, `*`, `/`, `%`.
+## 3. ⚙️ **Operadores y expresiones**  
+   - ### Operadores aritméticos: `+`, `-`, `*`, `/`, `%`.
 
          Los operadores aritméticos permiten realizar cálculos matemáticos en C.
          Son simples, pero forman la base de cualquier lógica numérica.
@@ -145,7 +145,7 @@
          Devuelve el residuo de una división entre enteros.
          Ejemplo: a % b
 
-   - Operadores relacionales: `==`, `!=`, `<`, `>`, `<=`, `>=`.
+   - ### Operadores relacionales: `==`, `!=`, `<`, `>`, `<=`, `>=`.
 
          Los operadores relacionales se usan para comparar valores. Su resultado siempre es verdadero (1) o falso (0).
 
@@ -173,7 +173,7 @@
          <= Menor o igual que
          Ejemplo: a <= b
 
-   - Operadores lógicos: `&&`, `||`, `!`.
+   - ### Operadores lógicos: `&&`, `||`, `!`.
   
          Los operadores lógicos permiten combinar condiciones y evaluar expresiones más complejas.
          Su resultado siempre es verdadero (1) o falso (0).
@@ -198,7 +198,7 @@
          
          !(a > 0)
 
-   - Precedencia y asociación de operadores.
+   - ### Precedencia y asociación de operadores.
   
          La precedencia de operadores indica qué operación se evalúa primero cuando varias aparecen en una misma expresión.
          La asociación indica en qué dirección se evalúan los operadores cuando tienen la misma precedencia.
@@ -229,7 +229,7 @@
          = – Asignación
          Se evalúa casi al final.
 
-##4. 🔤 **Estructura de cadenas en C**  
+## 4. 🔤 **Estructura de cadenas en C**  
    - Declaración de cadenas: uso de arreglos de tipo `char`.  
    - Inicialización de cadenas y el carácter nulo `'\0'`.  
    - Lectura y escritura de cadenas: `scanf()`, `gets()`, `fgets()`, `printf()`, `puts()`.  
