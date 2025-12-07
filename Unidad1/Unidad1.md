@@ -27,11 +27,9 @@
 1. 🧾 **Introducción al lenguaje C**  
    - Características del lenguaje C.
    
-      Un algoritmo debe ser preciso, indicar el orden de cada paso de manera clara y sin ambigüedades.
-     
-      Un algoritmo debe estar definido, si se sigue el algoritmo varias veces con los mismos datos de entrada, los resultados obtenidos deben ser los mismos.
-     
-      Un algoritmo debe ser finito, de tiempo finito, su ejecución debe concluir en algún momento.
+      > 💬*Un algoritmo debe ser preciso, indicar el orden de cada paso de manera clara y sin ambigüedades.*
+      > 💬*Un algoritmo debe estar definido, si se sigue el algoritmo varias veces con los mismos datos de entrada, los resultados obtenidos deben ser los       mismos.*
+      > 💬*Un algoritmo debe ser finito, de tiempo finito, su ejecución debe concluir en algún momento.*
 ---
    - Estructura básica de un programa en C.  
    - Proceso de compilación y ejecución.  
