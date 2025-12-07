@@ -93,7 +93,8 @@
          #define PI 3.14
 
 
-         Este método no crea una variable; el preprocesador reemplaza cada PI por 3.14 antes de compilar. Se usa para valores globales, mensajes, tamaños o          configuraciones.
+         Este método no crea una variable; el preprocesador reemplaza cada PI por 3.14 antes de compilar.
+         Se usa para valores globales, mensajes, tamaños o configuraciones.
 
          Diferencia esencial:
          const crea una variable protegida.
