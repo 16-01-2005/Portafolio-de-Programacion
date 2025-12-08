@@ -255,7 +255,70 @@
 
 ---
 
+- ### ⏳ Hacer … Mientras (do-while)
+  
+   >📝 *El ciclo do…while es una estructura repetitiva de prueba posterior.*
+   
+   >🧾 *A diferencia del while tradicional, este garantiza que el bloque de instrucciones se ejecute al menos una vez antes de verificar la condición.*
+   
+   >⏳ *Funciona como un bucle que primero actúa y después pregunta:
+   ejecuta el código, luego revisa si debe repetirlo.*
+   
+   >💡*El ciclo do…while en C se usa cuando necesitas que una acción se realice mínimo una vez, sin importar la condición inicial.*
 
+        Estructura básica:
+        do {
+            // instrucciones que se ejecutan al menos una vez
+        } while (condición);
+
+   ### ✅ Características:
+
+   >🗂️ *Evalúa la condición después de ejecutar el bloque, por eso siempre corre al menos una vez.*
+   
+   >🔁 *Ideal cuando debes asegurar una primera ejecución, como menús interactivos, lecturas de usuario o procesos que requieren validación posterior.*
+   
+   >🔄 *Continúa repitiéndose mientras la condición sea verdadera.*
+   
+   >⚠️ *Como cualquier repetitiva, requiere actualizar la condición dentro del bloque para evitar ciclos infinitos.*
+
+   ### 🧠 Diagrama de Flujo
+
+   ### 📌Codigo en C
+
+---
+
+- ### 🧩 Anidamiento de bucles
+
+   >📝 *El anidamiento de bucles consiste en colocar un ciclo dentro de otro ciclo.*
+   
+   >🧾 *Permite ejecutar procesos repetitivos en varias dimensiones, donde cada vuelta del ciclo externo contiene múltiples repeticiones del ciclo interno.*
+   
+   >🧩 *Funciona como un engranaje doble:
+   el bucle externo avanza paso a paso,
+   y en cada paso el bucle interno realiza todas sus iteraciones.*
+   
+   >💡*El anidamiento de bucles en C se utiliza cuando necesitas recorrer estructuras más complejas, como matrices, tablas, patrones o múltiples niveles de repetición.*
+
+        Estructura básica:
+        for (condición externa) {
+            for (condición interna) {
+                // instrucciones del ciclo interno
+            }
+        }
+
+   ### ✅ Características:
+
+   >🗂️ *El ciclo interno se ejecuta completamente en cada iteración del ciclo externo.*
+   
+   >🔄 *Se puede anidar cualquier combinación: for dentro de for, while dentro de while, for dentro de while, etc.*
+   
+   >🔧 *Ideal para trabajar con arreglos bidimensionales, generar patrones numéricos o repetir procesos dependientes entre sí.*
+   
+   >⚠️ *Se debe controlar cuidadosamente la condición de ambos ciclos para evitar tiempos de ejecución excesivos.*
+
+   ### 🧠 Diagrama de Flujo
+
+   ### 📌Codigo en C
 
 
 
