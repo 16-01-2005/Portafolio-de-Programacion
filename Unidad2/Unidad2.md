@@ -13,7 +13,6 @@
 
 ### 🎯Estructuras Algorítmicas Repetitivas
 
-- 📖 Terminología básica
 - 🔁 Para (for)
 - 🔄 Mientras (while)
 - ⏳ Hacer … Mientras (do-while)
@@ -179,8 +178,35 @@
 
    <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/a9e477b8-9454-4ac5-af6a-121a76493f37" />
 
+---
+---
+---
 
+- ### 🔁 Para (for)
 
+   >📝 *El ciclo for es una estructura repetitiva controlada.*
+   
+   >🧾 Sirve para ejecutar un bloque de instrucciones un número conocido de veces, avanzando paso a paso según un contador.*
+   
+   >🔁 *Funciona como un bucle con tres elementos integrados: inicialización, condición y actualización.
+   Mientras la condición siga siendo verdadera, el ciclo continúa repitiéndose.*
+   
+   >💡*El ciclo for en C se utiliza cuando conoces de antemano cuántas veces debe repetirse una acción.*
+
+        Estructura básica:
+        for (inicialización; condición; actualización) {
+            // instrucciones a ejecutar en cada repetición
+        }
+
+### ✅ Características:
+
+   >🗂️ *La inicialización define el valor inicial del contador.*
+   
+   >📎 *La condición determina si el ciclo continúa o se detiene.*
+   
+   >🔧 *La actualización modifica el contador en cada vuelta (normalmente aumento o disminución).*
+   
+   >🚀 *Es ideal para recorrer rangos numéricos, ejecutar procesos por pasos o manejar iteraciones precisas dentro de un programa.*
 
 
 
