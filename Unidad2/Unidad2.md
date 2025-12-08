@@ -32,6 +32,12 @@
       // instrucciones a ejecutar si la condición es verdadera
       }
 
+   > 📝 *El if es una estructura condicional simple.*
+   > 🧾 *Es la forma más básica de tomar decisiones dentro de un programa: solo ejecuta un bloque de instrucciones si la condición se cumple.*
+   > ✅ *Funciona como un guardia lógico:
+     si la condición es verdadera, deja pasar el código;
+     si es falsa, simplemente no hace nada.*
+
     #### ✅ Características:
 
    > La condición se evalúa como verdadera (true) o falsa (false).
