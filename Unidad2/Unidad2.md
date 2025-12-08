@@ -34,7 +34,7 @@
      si es falsa, simplemente no hace nada.*
 
 
-   > 💡La condicional simple if en C permite ejecutar un bloque de código solo si se cumple una condición.
+   > 💡*La condicional simple if en C permite ejecutar un bloque de código solo si se cumple una condición.*
 
       Estructura básica:
       if (condición) {
@@ -44,17 +44,17 @@
   
   #### ✅ Características:
 
-   > La condición se evalúa como verdadera (true) o falsa (false).
+   > 🗂️ *La condición se evalúa como verdadera (true) o falsa (false).*
    
-   > Si la condición es falsa, no se ejecuta nada.
+   > 📎 *Si la condición es falsa, no se ejecuta nada.*
    
-   > Se usa cuando se necesita tomar una decisión única en el programa.
+   > 📌 *Se usa cuando se necesita tomar una decisión única en el programa.*
 
-  #### Diagrama de Flujo
+  #### 🧠 Diagrama de Flujo
 
   <img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/5f21832d-493c-4584-b81d-bde5611f2791" />
 
-  #### Codgio en C
+  #### 📌 Codgio en C
 
   <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/b8770256-fcdc-474e-a577-440fc2b44a06" />
 
@@ -79,13 +79,23 @@
         // instrucciones si la condición es falsa
         }
 
-  #### ✅ Características:
+   #### ✅ Características:
 
    > 🔀 *Evalúa la condición como verdadera (true) o falsa (false).*
 
    > 🏗️ *Siempre ejecuta uno de los dos bloques, nunca ambos.*
 
    > 📖 *Se utiliza cuando el programa debe elegir entre dos acciones posibles.*
+
+
+   #### 🧠 Diagrama de Flujo
+
+   <img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/5e10ff84-1d2d-45f0-adb7-92e626bf9cf7" />
+
+   #### 📌Codigo en C
+  
+  <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/3dbdfef7-f098-40d3-854c-c6c1f8df31a8" />
+
 
 
 
