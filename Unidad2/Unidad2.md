@@ -34,11 +34,18 @@
 
     #### ✅ Características:
 
-    La condición se evalúa como verdadera (true) o falsa (false).
+   > La condición se evalúa como verdadera (true) o falsa (false).
+   > Si la condición es falsa, no se ejecuta nada.
+   > Se usa cuando se necesita tomar una decisión única en el programa.
 
-    Si la condición es falsa, no se ejecuta nada.
+  #### Diagrama de Flujo
 
-    Se usa cuando se necesita tomar una decisión única en el programa.
+  <img width="1077" height="666" alt="image" src="https://github.com/user-attachments/assets/5f21832d-493c-4584-b81d-bde5611f2791" />
+
+  #### Codgio en C
+
+  <img width="843" height="522" alt="image" src="https://github.com/user-attachments/assets/b8770256-fcdc-474e-a577-440fc2b44a06" />
+
 
 
 
