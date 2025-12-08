@@ -207,7 +207,7 @@
      
    - ### 📚Inicialización de cadenas y el carácter nulo `'\0'`.
 
-      >💡 En C, al trabajar con cadenas (char), siempre debes considerar el carácter nulo '\0', que indica el final de la cadena. Esto es crucial porque               muchas funciones de C dependen de él para saber dónde termina la cadena.
+      >💡 *En C, al trabajar con cadenas (char), siempre debes considerar el carácter nulo '\0', que indica el final de la cadena. Esto es crucial porque               muchas funciones de C dependen de él para saber dónde termina la cadena.*
      
    - ### ⭐Lectura y escritura de cadenas: `scanf()`, `gets()`, `fgets()`, `printf()`, `puts()`.
    
@@ -224,9 +224,21 @@
 
 > 💬*Los diagramas de flujo son aquellas representaciones graficas que permiten la diagramación y el análisis de todos los aspectos relevante, dando de esta       manera los lineamientos para escribir de una manera clara y lógicas.*
 ---
-## Prubeas de escritorio
 
-> 💬
+## ✅ Prubeas de escritorio
+
+> 💬*Las pruebas de escritorio son una técnica de verificación de programas en la que el desarrollador revisa manualmente el código para comprobar su funcionamiento antes de ejecutarlo en una computadora. Consiste en simular, paso a paso, la ejecución del programa utilizando tablas o diagramas, anotando el valor de las variables y el flujo de control según las instrucciones del código.*
+
+---
+
+## 📝 Codigo en c 
+> 💬*El código en C es la forma de expresar algoritmos y lógica computacional de manera precisa para que la computadora los ejecute*
+
+---
+
+## Ejecución 
+
+> 💬*La ejecución es el proceso mediante el cual una computadora realiza las instrucciones de un programa para producir un resultado. En otras palabras, es cuando el código escrito por el programador se traduce en acciones concretas que la máquina puede procesar, ya sea cálculos, mostrar información, manipular datos o interactuar con el usuario.*
 
 ### 🧰 **Actividades de Aprendizaje**
 - 📝 Escribir programas básicos que lean y escriban cadenas.  
