@@ -42,7 +42,7 @@
       }
 
   
-    #### ✅ Características:
+  #### ✅ Características:
 
    > La condición se evalúa como verdadera (true) o falsa (false).
    
@@ -58,7 +58,34 @@
 
   <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/b8770256-fcdc-474e-a577-440fc2b44a06" />
 
+- ### 🔀 Condicional doble: Si … Entonces, Sino … (if-esle)
 
+   > 🏗️*El if-esle corresponde a una estructura condicional doble.*
+
+   > 📖*En programación, la condicional doble es la que evalúa una condición y ejecuta un bloque si es verdadera, y otro bloque alternativo si es falsa.*
+   
+   > 🔀 *En C, esa estructura es if–else.*
+   
+   > 📖 *En palabras simples:
+   si se cumple, hace algo;
+   si no se cumple, hace otra cosa*
+   
+   >💡*La condicional doble if–else en C permite ejecutar un bloque de código si la condición se cumple y otro bloque alternativo si la condición es falsa.*
+
+        Estructura básica:
+        if (condición) {
+           // instrucciones si la condición es verdadera
+        } else {
+        // instrucciones si la condición es falsa
+        }
+
+  #### ✅ Características:
+
+   > 🔀 *Evalúa la condición como verdadera (true) o falsa (false).*
+
+   > 🏗️ *Siempre ejecuta uno de los dos bloques, nunca ambos.*
+
+   > 📖 *Se utiliza cuando el programa debe elegir entre dos acciones posibles.*
 
 
 
