@@ -171,6 +171,14 @@
    >📌 Se usa cuando el programa necesita explorar varios escenarios posibles dependiendo de múltiples condiciones
 
 
+   ### 🧠 Diagrama de Flujo
+
+   <img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/7ea19bc2-7a64-40ec-a29c-1c8f3aa36208" />
+
+   ### 📌Codigo en C
+
+   <img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/f7cfd34e-2d9b-4d21-bf3b-2981a7852bd1" />
+
 
 
 
