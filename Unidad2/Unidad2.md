@@ -24,13 +24,6 @@
 ## 🧩 **Temas Principales**
 
 - ### ✅ Condicional simple: Si … Entonces (if)
-  
-   > 💡La condicional simple if en C permite ejecutar un bloque de código solo si se cumple una condición.
-
-      Estructura básica:
-      if (condición) {
-      // instrucciones a ejecutar si la condición es verdadera
-      }
 
    > 📝 *El if es una estructura condicional simple.*
    
@@ -40,6 +33,15 @@
      si la condición es verdadera, deja pasar el código;
      si es falsa, simplemente no hace nada.*
 
+
+   > 💡La condicional simple if en C permite ejecutar un bloque de código solo si se cumple una condición.
+
+      Estructura básica:
+      if (condición) {
+      // instrucciones a ejecutar si la condición es verdadera
+      }
+
+  
     #### ✅ Características:
 
    > La condición se evalúa como verdadera (true) o falsa (false).
