@@ -161,7 +161,7 @@
           }
       }
 
-  ### ✅ Características:
+   ### ✅ Características:
 
    >🗂️ Permite evaluar decisiones en cadena, verificando condiciones más específicas según el resultado anterior.
 
@@ -198,7 +198,7 @@
             // instrucciones a ejecutar en cada repetición
         }
 
-### ✅ Características:
+   ### ✅ Características:
 
    > 🗂️ *La inicialización define el valor inicial del contador.*
    
@@ -208,9 +208,15 @@
    
    > 🚀 *Es ideal para recorrer rangos numéricos, ejecutar procesos por pasos o manejar iteraciones precisas dentro de un programa.*
 
+   ### 🧠 Diagrama de Flujo
 
+   <img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/5f890c23-2f1b-4573-ad6b-ceec8154845a" />
 
+   ### 📌Codigo en C
+  
+   <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/758fcb0b-fdd2-4019-bc00-25013066d46c" />
 
+---
 
 
 
