@@ -323,8 +323,11 @@
 
    ### 🧠 Diagrama de Flujo
 
+   <img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/6f4f272d-0c5b-41ca-813c-04b1b7841378" />
+
    ### 📌Codigo en C
 
+   <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/b6680ee2-abb5-497c-8180-de315736db38" />
 
 
 
