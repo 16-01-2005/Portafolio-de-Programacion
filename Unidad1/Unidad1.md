@@ -11,18 +11,6 @@
 - 🔤 Manipular cadenas de caracteres utilizando funciones basicas de la biblioteca estándar `<string.h>`.  
 
 ---
-
-## 🔤 Pseudocódigos
-
-> 💬*El pseucódigo es el paso intermedio de un programa algorítmico, que se expresan mediante símbolos, y los lenguajes de programación. Siendo este un          método que nos ayudara a la programación y solución del algoritmo del programa.*
-
----
-
-## 🧠 Driagrama de flujo
-
-> 💬*Los diagramas de flujo son aquellas representaciones graficas que permiten la diagramación y el análisis de todos los aspectos relevante, dando de esta       manera los lineamientos para escribir de una manera clara y lógicas.*
-
----
 ## 🧩 **Temas Principales**
 ## 1. 🧾 **Introducción al lenguaje C**  
    - ### Características del lenguaje C.
@@ -213,19 +201,32 @@
        >🟰  Igualdad: ==, !=
          
 ## 4. 🔤 **Estructura de cadenas en C**  
-   - ### Declaración de cadenas: uso de arreglos de tipo `char`.
+   - ### ✨Declaración de cadenas: uso de arreglos de tipo `char`.
 
       > 🚀*En C, las cadenas de texto se manejan como arreglos de tipo char que siempre terminan con el carácter nulo \0, el cual indica el final de la                 cadena. Esto permite que funciones estándar como printf, scanf o strcpy sepan dónde termina la cadena.*
      
-   - ### Inicialización de cadenas y el carácter nulo `'\0'`.
+   - ### 📚Inicialización de cadenas y el carácter nulo `'\0'`.
 
       >💡 En C, al trabajar con cadenas (char), siempre debes considerar el carácter nulo '\0', que indica el final de la cadena. Esto es crucial porque               muchas funciones de C dependen de él para saber dónde termina la cadena.
      
-   - ### Lectura y escritura de cadenas: `scanf()`, `gets()`, `fgets()`, `printf()`, `puts()`.
+   - ### ⭐Lectura y escritura de cadenas: `scanf()`, `gets()`, `fgets()`, `printf()`, `puts()`.
    
     
-      >🧩 En C, la lectura y escritura de cadenas se realiza con funciones de la librería <stdio.h>. Para la lectura, scanf() permite capturar una palabra             hasta un espacio, pero no es seguro para cadenas largas; gets() lee líneas completas pero es obsoleta y peligrosa; fgets() es la opción segura, ya           que permite leer líneas completas controlando la cantidad de caracteres. Para la escritura, printf() permite mostrar cadenas con formato y ombinar           texto con variables, mientras que puts() imprime la cadena directamente añadiendo un salto de línea automático. El carácter nulo '\0' es esencial,           ya que indica el fin de la cadena y asegura que las funciones procesen correctamente el contenido.
+      >🧩 *En C, la lectura y escritura de cadenas se realiza con funciones de la librería <stdio.h>. Para la lectura, scanf() permite capturar una palabra             hasta un espacio, pero no es seguro para cadenas largas; gets() lee líneas completas pero es obsoleta y peligrosa; fgets() es la opción segura, ya           que permite leer líneas completas controlando la cantidad de caracteres. Para la escritura, printf() permite mostrar cadenas con formato y ombinar           texto con variables, mientras que puts() imprime la cadena directamente añadiendo un salto de línea automático. El carácter nulo '\0' es esencial,           ya que indica el fin de la cadena y asegura que las funciones procesen correctamente el contenido.*
 ---
+## 🔤 Pseudocódigos
+
+> 💬*El pseucódigo es el paso intermedio de un programa algorítmico, que se expresan mediante símbolos, y los lenguajes de programación. Siendo este un          método que nos ayudara a la programación y solución del algoritmo del programa.*
+
+---
+
+## 🧠 Driagrama de flujo
+
+> 💬*Los diagramas de flujo son aquellas representaciones graficas que permiten la diagramación y el análisis de todos los aspectos relevante, dando de esta       manera los lineamientos para escribir de una manera clara y lógicas.*
+---
+## Prubeas de escritorio
+
+> 💬
 
 ### 🧰 **Actividades de Aprendizaje**
 - 📝 Escribir programas básicos que lean y escriban cadenas.  
