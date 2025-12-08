@@ -200,13 +200,13 @@
 
 ### ✅ Características:
 
-   >🗂️ *La inicialización define el valor inicial del contador.*
+   > 🗂️ *La inicialización define el valor inicial del contador.*
    
-   >📎 *La condición determina si el ciclo continúa o se detiene.*
+   > 📎 *La condición determina si el ciclo continúa o se detiene.*
    
-   >🔧 *La actualización modifica el contador en cada vuelta (normalmente aumento o disminución).*
+   > 🔧 *La actualización modifica el contador en cada vuelta (normalmente aumento o disminución).*
    
-   >🚀 *Es ideal para recorrer rangos numéricos, ejecutar procesos por pasos o manejar iteraciones precisas dentro de un programa.*
+   > 🚀 *Es ideal para recorrer rangos numéricos, ejecutar procesos por pasos o manejar iteraciones precisas dentro de un programa.*
 
 
 
