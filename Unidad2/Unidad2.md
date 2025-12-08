@@ -10,7 +10,6 @@
 - 🔀 Condicional doble: Si … Entonces, Sino … (if-esle)
 - 📂 Condicional múltiple: En caso de … (swich/case)
 - 🧩 Anidamiento de condicionales
-- 💻 Implementación en programación
 
 ### 🎯Estructuras Algorítmicas Repetitivas
 
@@ -19,7 +18,6 @@
 - 🔄 Mientras (while)
 - ⏳ Hacer … Mientras (do-while)
 - 🧩 Anidamiento de bucles
-- 💻 Implementación en programación
 
 ## 🧩 **Temas Principales**
 
@@ -139,6 +137,38 @@
   
    <img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/666b7757-1c51-4e70-9aab-5b6caacc19f3" />
 
+---
+- ### 🧩 Anidamiento de condicionales
+
+   >📝 *El anidamiento de condicionales ocurre cuando colocamos un if dentro de otro if, o cuando un else contiene otro if.*
+
+   > 🧾 *Sirve para tomar decisiones más complejas, donde cada resultado abre la puerta a nuevas verificaciones. Es una estructura de decisiones en niveles, como       un árbol lógico.*
+
+   >✅ *Funciona como una cadena de filtros:
+   si la primera condición es verdadera, se evalúa la siguiente;
+   si no es verdadera, el else puede contener otro if que establezca un camino alternativo.*
+
+   >💡*El anidamiento permite manejar múltiples escenarios de forma ordenada, usando if dentro de if, y también else que contienen más condicionales.*
+
+      Estructura básica:
+      
+      if (condición1) {
+          if (condición2) {
+              // instrucciones si ambas condiciones son verdaderas
+          }
+      } else {
+          if (condición3) {
+              // instrucciones si condición1 es falsa pero condición3 es verdadera
+          }
+      }
+
+  ### ✅ Características:
+
+   >🗂️ Permite evaluar decisiones en cadena, verificando condiciones más específicas según el resultado anterior.
+
+   >📎 El else también puede contener otro if, creando rutas alternativas de evaluación.
+
+   >📌 Se usa cuando el programa necesita explorar varios escenarios posibles dependiendo de múltiples condiciones
 
 
 
