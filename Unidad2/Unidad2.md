@@ -329,7 +329,13 @@
 
    <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/b6680ee2-abb5-497c-8180-de315736db38" />
 
+---
+---
+---
 
+## Ejercicico en Java 
+> *Realicé una calculadora básica en Java capaz de ejecutar las cuatro operaciones fundamentales: suma, resta, multiplicación y división. El programa utiliza estructuras de control anidadas para gestionar tanto la selección de la operación como la validación de datos ingresados por el usuario. Además, incorpora un sistema de verificación que evita errores comunes, como la división entre cero, solicitando nuevamente los valores cuando sea necesario.
+El objetivo de esta calculadora es mostrar el uso práctico de bucles, condicionales y manejo de entradas, permitiendo al usuario realizar múltiples operaciones de forma segura y controlada dentro del mismo flujo del programa.
 
 
 
