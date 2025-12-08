@@ -52,28 +52,30 @@
      > ✏️*1. int:
          Representa números enteros. Es el tipo más común para contar, sumar o manejar valores sin decimales.*
         
-     > ✏️*2. float:
+     > 🧾*2. float:
          Sirve para números reales con punto decimal, pero con precisión moderada.*
         
      > ✏️*3. double:
          Es como el float, pero con mayor precisión. Se usa cuando los cálculos necesitan exactitud más alta.*
         
-     > ✏️*4. char:
+     > 🧾*4. char:
          Almacena un solo carácter, pero realmente guarda un número entero.
          Por eso 'A', 'b' o '9' son valores válidos.*
 
    - ### Declaración e inicialización de variables.
 
-      > ✏️*Declarar una variable en C es indicar su tipo y su nombre, por ejemplo:
-         int edad;
-         Inicializar es asignarle un valor por primera vez:
-         edad = 20;
-         También puedes declarar e inicializar en una sola línea:
+      > ➡️*Declarar una variable en C es indicar su tipo y su nombre, por ejemplo:
+         int edad;*
+
+      > ⬅️*Inicializar es asignarle un valor por primera vez:
+         edad = 20;*
+
+      > ⬆️*También puedes declarar e inicializar en una sola línea:
          int edad = 20;*
 
    - ### Constantes y uso de `#define`.
 
-      > ✏️*Una constante es un valor que no cambia durante la ejecución del programa. Se usa cuando necesitas asegurar
+      > 🧾*Una constante es un valor que no cambia durante la ejecución del programa. Se usa cuando necesitas asegurar
          que un dato permanezca fijo.*
         
       > ✏️*Constante con const:
@@ -82,7 +84,7 @@
          Constante con #define:
          #define PI 3.14*
      
-      > ✏️*Este método no crea una variable; el preprocesador reemplaza cada PI por 3.14 antes de compilar.
+      > 🧾*Este método no crea una variable; el preprocesador reemplaza cada PI por 3.14 antes de compilar.
          Se usa para valores globales, mensajes, tamaños o configuraciones.*
      
       > ✏️*Diferencia esencial:
@@ -145,11 +147,11 @@
       >🧠*Los operadores relacionales se usan para comparar valores. Su resultado siempre es verdadero (1) o falso (0).*
 
          
-      >🧠 == Igual a:
+      >🧠 🟰🟰 Igual a:
          Comprueba si dos valores son iguales.
          Ejemplo: a == b
          
-      >🧠 != Diferente de:
+      >❗🟰 != Diferente de:
          Comprueba si dos valores son distintos.
          Ejemplo: a != b
          
@@ -183,7 +185,7 @@
          Ejemplo:
          (a > 0 || b > 0)
          
-       >🧠 ! NOT lógico:
+       >❗ ! NOT lógico:
          Invierte el valor lógico: verdadero pasa a falso y viceversa.
          Ejemplo:
          !(a > 0)
