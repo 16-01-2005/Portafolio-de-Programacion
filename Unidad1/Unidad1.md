@@ -99,39 +99,39 @@
          Después del primer carácter puede llevar letras, números o guion bajo
          Ejemplo válido: nota_final1*
      
-      >🧠*No puede contener espacios ni caracteres especiales
+      > 📐*No puede contener espacios ni caracteres especiales
           No se permiten -, ?, @, ñ, etc.
           No puede ser una palabra reservada del lenguaje
           No puedes usar nombres como int, return, float, if.*
      
-      >🧠*C distingue entre mayúsculas y minúsculas
+      > 📐*C distingue entre mayúsculas y minúsculas
           Edad, edad y EDAD son nombres totalmente diferentes.
           En la práctica, para mantener código limpio se suele usar estilo snake_case
           int numero_estudiantes;
           float promedio_final;*
       
-      >🧠*Estas reglas aseguran que el compilador interprete perfectamente cada identificador
+      > 📐*Estas reglas aseguran que el compilador interprete perfectamente cada identificador
           y que el código sea claro y profesional.*
 
 ## 3. ⚙️ **Operadores y expresiones**  
    - ### Operadores aritméticos: `+`, `-`, `*`, `/`, `%`.
 
-      >🧠*Los operadores aritméticos permiten realizar cálculos matemáticos en C.
+      >🔍*Los operadores aritméticos permiten realizar cálculos matemáticos en C.
          Son simples, pero forman la base de cualquier lógica numérica.*
 
-      >🧠 + Suma:
+      >➕ + Suma:
          Suma dos valores.
          Ejemplo: a + b
 
-      >🧠 - Resta:
+      >➖ - Resta:
          Resta un valor de otro.
          Ejemplo: a - b
       
-      >🧠 * Multiplicación:
+      >✖️ * Multiplicación:
          Multiplica dos valores.
          Ejemplo: a * b
      
-      >🧠 / División:
+      >➗ / División:
          Divide un valor entre otro.
          En enteros, la división es entera.
          Ejemplo: a / b
