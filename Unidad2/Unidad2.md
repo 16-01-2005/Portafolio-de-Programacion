@@ -218,12 +218,42 @@
 
 ---
 
+- ### 🔄 Mientras (while)
 
+   >📝 *El ciclo while es una estructura repetitiva condicional.*
+   
+   >🧾 *Se utiliza cuando no sabes cuántas veces se repetirá el proceso; la repetición depende de que la condición siga siendo verdadera.*
+   
+   >🔄 *Funciona como un vigilante lógico:
+   mientras la condición sea verdadera, el ciclo continúa;
+   cuando se vuelve falsa, el ciclo termina.*
+   
+   >💡*El ciclo while en C permite ejecutar un bloque de código mientras una condición se mantenga verdadera.*
 
+        Estructura básica:
+        while (condición) {
+            // instrucciones que se repiten mientras la condición sea verdadera
+        }
 
+   ### ✅ Características:
 
+   >🗂️ *Evalúa la condición antes de ejecutar el bloque, por eso se le conoce como ciclo de prueba previa.*
+   
+   >🔎 *Si la condición empieza siendo falsa, el ciclo nunca se ejecuta.*
+   
+   >🔧 *Ideal cuando la cantidad de repeticiones depende de un evento externo, del usuario o de un resultado lógico que cambia dentro del ciclo.*
+   
+   >⚠️ *Requiere actualizar la condición dentro del bloque para evitar ciclos infinitos.*
 
+   ### 🧠 Diagrama de Flujo
 
+   <img width="450" height="333" alt="image" src="https://github.com/user-attachments/assets/273da72d-cbfb-4655-af50-e6452779fc0d" />
+
+   ### 📌Codigo en C
+
+   <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/f8d9a1b5-a460-4269-bd7b-8275bcd8c92e" />
+
+---
 
 
 
