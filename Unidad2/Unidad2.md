@@ -58,6 +58,8 @@
 
   <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/b8770256-fcdc-474e-a577-440fc2b44a06" />
 
+---
+
 - ### 🔀 Condicional doble: Si … Entonces, Sino … (if-esle)
 
    > 🏗️*El if-esle corresponde a una estructura condicional doble.*
