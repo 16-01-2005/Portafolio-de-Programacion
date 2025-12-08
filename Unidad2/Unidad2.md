@@ -137,7 +137,7 @@
 
    ### 📌Codigo en C
   
-   <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/666b7757-1c51-4e70-9aab-5b6caacc19f3" />
+   <img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/666b7757-1c51-4e70-9aab-5b6caacc19f3" />
 
 
 
