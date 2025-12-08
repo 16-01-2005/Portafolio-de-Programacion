@@ -217,7 +217,8 @@
 ## 🔤 Pseudocódigos
 
 > 💬*El pseucódigo es el paso intermedio de un programa algorítmico, que se expresan mediante símbolos, y los lenguajes de programación. Siendo este un          método que nos ayudara a la programación y solución del algoritmo del programa.*
-Algoritmo Distancia_Entre_Puntos
+
+    Algoritmo Distancia_Entre_Puntos
     
     Definir x1, y1, x2, y2, distancia Como Real
 
