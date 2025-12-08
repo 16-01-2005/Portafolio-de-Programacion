@@ -177,7 +177,7 @@
 
    ### 📌Codigo en C
 
-   <img width="650" height="320" alt="image" src="https://github.com/user-attachments/assets/f7cfd34e-2d9b-4d21-bf3b-2981a7852bd1" />
+   <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/a9e477b8-9454-4ac5-af6a-121a76493f37" />
 
 
 
