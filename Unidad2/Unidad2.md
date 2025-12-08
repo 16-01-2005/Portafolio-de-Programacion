@@ -210,7 +210,7 @@
 
    ### 🧠 Diagrama de Flujo
 
-   <img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/5f890c23-2f1b-4573-ad6b-ceec8154845a" />
+   <img width="450" height="275" alt="image" src="https://github.com/user-attachments/assets/5f890c23-2f1b-4573-ad6b-ceec8154845a" />
 
    ### 📌Codigo en C
   
