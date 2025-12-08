@@ -261,7 +261,8 @@
 
 ## 📝 Codigo en c 
 > 💬*El código en C es la forma de expresar algoritmos y lógica computacional de manera precisa para que la computadora los ejecute*
-#include <stdio.h>  
+
+    #include <stdio.h>  
     //Se ingresa la libreria para que se pueda hacer funciones matematicas mas complejas
     #include <math.h> 
     
