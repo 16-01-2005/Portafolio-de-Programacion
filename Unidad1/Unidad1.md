@@ -33,15 +33,15 @@
       
       > 💬*Un algoritmo debe ser finito, de tiempo finito, su ejecución debe concluir en algún momento.*
 ---
-   - ### Estructura básica de un programa en C.
+   - ### 📤Estructura básica de un programa en C.
 
      <img width="404" height="124" alt="image" src="https://github.com/user-attachments/assets/f5a12fd2-709d-4e7d-97a9-705a850d6ced" />
 ---
-   - ### Proceso de compilación y ejecución.
+   - ### 🛰️Proceso de compilación y ejecución.
 
      <img width="404" height="124" alt="image" src="https://github.com/user-attachments/assets/40664f50-91fd-4f05-98a2-82cbc445dff9" />
 ---
-   - ### Uso del entorno de desarrollo VS Code.
+   - ### 📌Uso del entorno de desarrollo VS Code.
 
      <img width="408" height="375" alt="image" src="https://github.com/user-attachments/assets/f4d5ec1a-ac64-4db2-bb9a-d0a6e054900c" />
 ---
@@ -155,32 +155,32 @@
          Comprueba si dos valores son distintos.
          Ejemplo: a != b
          
-       >🧠 > Mayor que:
+       >⬅️ > Mayor que:
          Verifica si un valor es mayor que otro.
          Ejemplo: a > b
          
-       >🧠 < Menor que:
+       >➡️ < Menor que:
          Verifica si un valor es menor que otro.
          Ejemplo: a < b
          
-       >🧠 >= Mayor o igual que:
+       >⬅️🟰 >= Mayor o igual que:
          Ejemplo: a >= b
          
-       >🧠 <= Menor o igual que:
+       >➡️🟰 <= Menor o igual que:
          Ejemplo: a <= b
 
    - ### Operadores lógicos: `&&`, `||`, `!`.
   
-       >🧠 *Los operadores lógicos permiten combinar condiciones y evaluar expresiones más complejas.
+       >🖨️ *Los operadores lógicos permiten combinar condiciones y evaluar expresiones más complejas.
          Su resultado siempre es verdadero (1) o falso (0).*
 
          
-       >🧠 && AND lógico:
+       >📦 && AND lógico:
          Solo es verdadero cuando ambas condiciones son verdaderas.
          Ejemplo:
          (a > 0 && b > 0)
          
-       >🧠 || OR lógico:
+       >🔢 || OR lógico:
          Es verdadero si al menos una de las condiciones es verdadera.
          Ejemplo:
          (a > 0 || b > 0)
@@ -192,31 +192,26 @@
 
    - ### Precedencia y asociación de operadores.
   
-       >🧠 *La precedencia de operadores indica qué operación se evalúa primero cuando varias aparecen en una misma expresión.
+       >🧩 *La precedencia de operadores indica qué operación se evalúa primero cuando varias aparecen en una misma expresión.
          La asociación indica en qué dirección se evalúan los operadores cuando tienen la misma precedencia.*
    
                   
-       >🧠  () – Paréntesis:
+       >🛠️  () – Paréntesis:
          Siempre se evalúan primero.
          
-       >🧠   !, incremento/decremento (++, --), casteos:
+       >⚡   !, incremento/decremento (++, --), casteos:
          Operadores unarios.
          
-       >🧠  *, /, %:
+       >🔀  *, /, %:
          Multiplicación, división y módulo.
          
-       >🧠  +, -:
+       >🔧  +, -:
          Suma y resta.
          
-       >🧠  Relacionales: <, <=, >, >=
+       >💡  Relacionales: <, <=, >, >=
          
-       >🧠  Igualdad: ==, !=
+       >🟰  Igualdad: ==, !=
          
-       >🧠  Lógicos:
-       >🧠  && se evalúa antes que ||.
-       >🧠  = – Asignación
-
-
 ## 4. 🔤 **Estructura de cadenas en C**  
    - Declaración de cadenas: uso de arreglos de tipo `char`.  
    - Inicialización de cadenas y el carácter nulo `'\0'`.  
