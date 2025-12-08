@@ -147,7 +147,7 @@
       >🧠*Los operadores relacionales se usan para comparar valores. Su resultado siempre es verdadero (1) o falso (0).*
 
          
-      >🧠 🟰🟰 Igual a:
+      > 🟰🟰 Igual a:
          Comprueba si dos valores son iguales.
          Ejemplo: a == b
          
@@ -213,9 +213,18 @@
        >🟰  Igualdad: ==, !=
          
 ## 4. 🔤 **Estructura de cadenas en C**  
-   - Declaración de cadenas: uso de arreglos de tipo `char`.  
-   - Inicialización de cadenas y el carácter nulo `'\0'`.  
-   - Lectura y escritura de cadenas: `scanf()`, `gets()`, `fgets()`, `printf()`, `puts()`.  
+   - ### Declaración de cadenas: uso de arreglos de tipo `char`.
+
+      > 🚀*En C, las cadenas de texto se manejan como arreglos de tipo char que siempre terminan con el carácter nulo \0, el cual indica el final de la                 cadena. Esto permite que funciones estándar como printf, scanf o strcpy sepan dónde termina la cadena.*
+     
+   - ### Inicialización de cadenas y el carácter nulo `'\0'`.
+
+      >💡 En C, al trabajar con cadenas (char), siempre debes considerar el carácter nulo '\0', que indica el final de la cadena. Esto es crucial porque               muchas funciones de C dependen de él para saber dónde termina la cadena.
+     
+   - ### Lectura y escritura de cadenas: `scanf()`, `gets()`, `fgets()`, `printf()`, `puts()`.
+   
+    
+      >🧩 En C, la lectura y escritura de cadenas se realiza con funciones de la librería <stdio.h>. Para la lectura, scanf() permite capturar una palabra             hasta un espacio, pero no es seguro para cadenas largas; gets() lee líneas completas pero es obsoleta y peligrosa; fgets() es la opción segura, ya           que permite leer líneas completas controlando la cantidad de caracteres. Para la escritura, printf() permite mostrar cadenas con formato y ombinar           texto con variables, mientras que puts() imprime la cadena directamente añadiendo un salto de línea automático. El carácter nulo '\0' es esencial,           ya que indica el fin de la cadena y asegura que las funciones procesen correctamente el contenido.
 ---
 
 ### 🧰 **Actividades de Aprendizaje**
