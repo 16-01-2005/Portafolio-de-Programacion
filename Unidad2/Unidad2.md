@@ -98,6 +98,46 @@
   
   <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/3dbdfef7-f098-40d3-854c-c6c1f8df31a8" />
 
+  ---
+  
+- ### 📂 Condicional múltiple: En caso de … (swich/case)
+
+   > ✅ *Swich/Case corresponde a una estructura condicional múltiple.*
+      
+   > ☑️ *Es el tipo de estructura que se usa cuando hay varias opciones posibles y el programa debe elegir una según el valor de una variable.*
+
+   > 💡*La condicional múltiple switch–case en C permite seleccionar una acción entre varias opciones posibles según el valor de una variable.*
+   
+        Estructura básica:
+        switch (variable) {
+            case valor1:
+                // instrucciones cuando variable == valor1
+                break;
+            case valor2:
+                // instrucciones cuando variable == valor2
+                break;
+            ...
+            default:
+                // instrucciones si ningún caso coincide
+        }
+
+   ### ✅ Características:
+   
+   > 🔀 *Permite manejar varias alternativas sin usar múltiples if–else encadenados.*
+   
+   > 🏗️ *Evalúa una sola variable y compara su valor con diferentes casos.*
+   
+   > 🗂️ *Cada caso representa una opción específica y el break evita que el flujo siga a los demás casos.*
+   
+   > 📎 *El bloque default se ejecuta si no coincide ningún caso, funcionando como una opción por defecto.*
+
+   ### 🧠 Diagrama de Flujo
+
+   <img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/72b6c1e4-2967-4ecd-98d0-6da717c55a3c" />
+
+   ### 📌Codigo en C
+  
+   <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/666b7757-1c51-4e70-9aab-5b6caacc19f3" />
 
 
 
