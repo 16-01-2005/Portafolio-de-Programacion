@@ -217,6 +217,25 @@
 ## 🔤 Pseudocódigos
 
 > 💬*El pseucódigo es el paso intermedio de un programa algorítmico, que se expresan mediante símbolos, y los lenguajes de programación. Siendo este un          método que nos ayudara a la programación y solución del algoritmo del programa.*
+Algoritmo Distancia_Entre_Puntos
+    
+    Definir x1, y1, x2, y2, distancia Como Real
+
+    // Se ingresan las primeras coordenadas
+    Escribir "Ingrese las primeras coordenadas (x1 y1):"
+    Leer x1, y1
+
+    // Se ingresan las segundas coordenadas
+    Escribir "Ingrese las segundas coordenadas (x2 y2):"
+    Leer x2, y2
+
+    // Se realiza la operación para calcular la distancia con la formula d= RAIZ((x2 - x1)^2 + (y2 - y1)^2)
+    distancia <- RAIZ((x2 - x1)^2 + (y2 - y1)^2)
+
+    // Se muestra el resultado
+    Escribir "La distancia entre los puntos (", x1, " ; ", y1, ") y (", x2, " ; ", y2, ") es: ", distancia
+    
+    FinAlgoritmo
 
 ---
 
