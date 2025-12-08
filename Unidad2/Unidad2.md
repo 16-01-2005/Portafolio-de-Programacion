@@ -3,8 +3,8 @@
 
 ---
 
-## Objetivos de la unidad 
-### Estructuras Algorítmicas Condicionales
+## 🎯Objetivos de la unidad 
+### 🎯Estructuras Algorítmicas Condicionales
 
 - ✅ Condicional simple: Si … Entonces (if)
 - 🔀 Condicional doble: Si … Entonces, Sino …(if-esle)
@@ -12,7 +12,7 @@
 - 🧩 Anidamiento de condicionales
 - 💻 Implementación en programación
 
-### Estructuras Algorítmicas Repetitivas
+### 🎯Estructuras Algorítmicas Repetitivas
 
 - 📖 Terminología básica
 - 🔁 Para (for)
