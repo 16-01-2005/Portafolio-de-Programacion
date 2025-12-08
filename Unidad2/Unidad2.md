@@ -32,7 +32,7 @@
       // instrucciones a ejecutar si la condición es verdadera
       }
 
-    ✅ #### Características:
+    #### ✅ Características:
 
     La condición se evalúa como verdadera (true) o falsa (false).
 
