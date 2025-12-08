@@ -250,6 +250,12 @@ Algoritmo Distancia_Entre_Puntos
 
 > 💬*Las pruebas de escritorio son una técnica de verificación de programas en la que el desarrollador revisa manualmente el código para comprobar su funcionamiento antes de ejecutarlo en una computadora. Consiste en simular, paso a paso, la ejecución del programa utilizando tablas o diagramas, anotando el valor de las variables y el flujo de control según las instrucciones del código.*
 
+| Puntos x1 y1 | Puntos x2 y2 | d=√((x_2-x_1)²+(y_2-y_1)²)         | Imprime |
+|--------------|--------------|------------------------------------|---------|
+| 36.78 86.45  | 25.36 42.17  | d=√((25.36-36.78)²+(42.17-86.45)²) |45.73    |   
+| 45 78        | 26.4 27      | d=√((26.4-45)²+(27-78)²)           |54.29    | 
+| 178.45 467.55| 134 698.7    | d=√((134-178.45)²+(698.7-467.55)²) |226.55   | 
+
 ---
 
 ## 📝 Codigo en c 
