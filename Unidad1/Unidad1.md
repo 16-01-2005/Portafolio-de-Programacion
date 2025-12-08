@@ -242,6 +242,8 @@ Algoritmo Distancia_Entre_Puntos
 ## 🧠 Driagrama de flujo
 
 > 💬*Los diagramas de flujo son aquellas representaciones graficas que permiten la diagramación y el análisis de todos los aspectos relevante, dando de esta       manera los lineamientos para escribir de una manera clara y lógicas.*
+
+ <img width="522" height="700" alt="image" src="https://github.com/user-attachments/assets/22a3f7ce-9f54-4930-a331-4a25839d0f1c" />
 ---
 
 ## ✅ Prubeas de escritorio
