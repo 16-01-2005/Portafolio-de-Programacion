@@ -372,3 +372,20 @@
 
 🔗 [ACD →](Aprendizaje.md)
 
+
+### 🧰 APE - Aprendizaje Práctico Experimental
+- 🗂️ [Juegos de Aprendizaje Práctico Experimental](Experimental.md)
+
+- APE1. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
+   - 🗂️ [APE 1.](APE1.pdf)
+- APE2. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
+   - 🗂️ [APE 2.](APE2.pdf)
+- Debugging Challenge: “Cazadores de Bugs” 
+   - 🗂️ [Cazadores de bugs](Bugs.pdf)
+
+### 🧰 AA - Aprendizaje Autónomo 
+- AA 1. Herramientras digital para pseudocódigo y digrama de flujo
+   - 🗂️ [Tarea 1](Tarea1pdf)
+- AA 2. Instalación de lenguages de programación
+   - 🗂️ [Tarea 2](Tarea2.pdf)
+
