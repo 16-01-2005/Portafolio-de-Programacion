@@ -342,10 +342,10 @@
 <img width="539" height="920" alt="image" src="https://github.com/user-attachments/assets/78ff08fd-a67b-4560-8530-37818734640d" />
 
 ### Codigo en Java 
-<img width="999" height="906" alt="image" src="https://github.com/user-attachments/assets/f3c0e141-c027-4b12-b620-afad8f082658" />
+<img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/f3c0e141-c027-4b12-b620-afad8f082658" />
 
-<img width="1289" height="761" alt="image" src="https://github.com/user-attachments/assets/9731dc1e-1a72-4305-8f71-a84e0f41d43f" />
+<img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/9731dc1e-1a72-4305-8f71-a84e0f41d43f" />
 
-<img width="822" height="519" alt="image" src="https://github.com/user-attachments/assets/68db6955-24aa-46ac-b1b4-b0cef6532f22" />
+<img width="450" height="333" alt="image" src="https://github.com/user-attachments/assets/68db6955-24aa-46ac-b1b4-b0cef6532f22" />
 
 
