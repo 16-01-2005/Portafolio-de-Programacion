@@ -373,18 +373,19 @@
 - ACD Control de aprendizaje de programas utilizando estructuras condicionales.
 
    -🔗 [ACD →](Aprendizaje.md)
---
+
 ## 🧰 APE - Aprendizaje Práctico Experimental
 
 - APE1. Aplicación de estructuras condicionales en la resolución de problemas
    - 🗂️ [APE 1.](APE1RicardoOchoa.pdf)
 - APE2. Aplicación de estructuras repetitivas en la resolución de problemas
    - 🗂️ [APE 2.](APE2RicardoOchoa.pdf)
---
+
 
 ## 🧰 AA - Aprendizaje Autónomo 
 - AA 1. Diferencias entre los tipos de estructuras condicionales
    - 🗂️ [Tarea 1](Tarea1RicardoMathiasOchoaArmijos.pdf)
 - AA 2. Cuadro comparativo entre las estructuras repetitivas
    - 🗂️ [Tarea 2](Tarea2RicardoOchoa.pdf)
---
+
+[Tarea 2](Tarea2RicardoOchoa.pdf)
