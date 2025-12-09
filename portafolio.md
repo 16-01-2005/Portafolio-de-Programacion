@@ -29,7 +29,6 @@
 
 ## 📚 **Referencias**  
 
-### 🔗 **Referencias Unidad 1**
   -  [1]	E. Alvarado, «¿Qué son las herramientas digitales? Aprovecha la tecnología en tu negocio,»
           Z-E-N-V-I-A, pp. https://www.zenvia.com/es/blog/herramientas-digitales/, 27 09 2024.
 
