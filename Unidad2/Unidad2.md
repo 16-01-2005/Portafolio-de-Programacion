@@ -385,7 +385,7 @@
 
 ### 🧰 AA - Aprendizaje Autónomo 
 - AA 1. Herramientras digital para pseudocódigo y digrama de flujo
-   - 🗂️ [Tarea 1](Tarea1pdf)
+   - 🗂️ [Tarea 1](Unidad2/Tarea1RicardoMathiasOchoaArmijos.pdf)
 - AA 2. Instalación de lenguages de programación
    - 🗂️ [Tarea 2](Tarea2.pdf)
 
