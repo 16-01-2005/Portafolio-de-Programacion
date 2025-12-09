@@ -360,7 +360,14 @@
 
 ## ⚠️ Principales Dificcultades 
    > ✔️*Mi mayor dificultad surge cuando trato de decidir cual de los operadores lógicos ||, && y ! uso, especialmente durante un período de tiempo. También       tengo un trabajo difícil porque no siempre sé en qué situaciones necesito usarlo o cómo aplicarlo correctamente. Tambien suele suceder con las               estructuras if donde a veces me confundo y no puedo interpretar la condición correctamente. Además, suelo tener problemas para romper los bucles, lo         que demuestra que todavía necesito fortalecer mi gestión de relaciones y mi lógica en general.*
-
+---
 ## 🌀 Reflexión crítica
 
    > 🗂️ *El manejo de condicionales y bucles sigue siendo uno de los desafíos más importantes en mi proceso de aprendizaje. Las dificultades que encuentro,          como no saber cuándo usar operadores lógicos, confundir el comportamiento de estructuras como if, while o do, o crear bucles infinitos, muestran que         todavía necesito fortalecer mi pensamiento lógico. Estos errores no sólo afectan la correcta ejecución de los programas, sino que también muestran la        importancia de comprender la lógica de cada decisión y cada repeticion. Reconozco que aprender estas estructuras es esencial para progresar en la            programación, por lo que necesito continuar practicando, analizando casos y desarrollando la capacidad de elegir cuidadosamente la estructura adecuada       para cada problema. Así, cada error se convierte en un paso necesario para crear una lógica más estable y confiable.*
+
+
+---
+
+## ACD
+
+
