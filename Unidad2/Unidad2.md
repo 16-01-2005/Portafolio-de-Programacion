@@ -374,12 +374,11 @@
 
 
 ### 🧰 APE - Aprendizaje Práctico Experimental
-- 🗂️ [Juegos de Aprendizaje Práctico Experimental](Experimental.md)
 
 - APE1. Aplicación de estructuras condicionales en la resolución de problemas
    - 🗂️ [APE 1.](APE1RicardoOchoa.pdf)
 - APE2. Aplicación de estructuras repetitivas en la resolución de problemas
-   - 🗂️ [APE 2.](APE2.pdf)
+   - 🗂️ [APE 2.](APE2RicardoOchoa.pdf)
 
 
 ### 🧰 AA - Aprendizaje Autónomo 
