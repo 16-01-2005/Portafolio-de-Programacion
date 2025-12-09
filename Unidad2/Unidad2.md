@@ -388,4 +388,4 @@
 - AA 2. Cuadro comparativo entre las estructuras repetitivas
    - 🗂️ [Tarea 2](Tarea2RicardoOchoa.pdf)
 
-[Tarea 2](Tarea2RicardoOchoa.pdf)
+[Tarea 2](portafolio.md)
