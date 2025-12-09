@@ -384,8 +384,8 @@
    - 🗂️ [Cazadores de bugs](Bugs.pdf)
 
 ### 🧰 AA - Aprendizaje Autónomo 
-- AA 1. Herramientras digital para pseudocódigo y digrama de flujo
+- AA 1. Diferencias entre los tipos de estructuras condicionales
    - 🗂️ [Tarea 1](Tarea1RicardoMathiasOchoaArmijos.pdf)
-- AA 2. Instalación de lenguages de programación
-   - 🗂️ [Tarea 2](Tarea2.pdf)
+- AA 2. Cuadro comparativo entre las estructuras repetitivas
+   - 🗂️ [Tarea 2](Tarea2RicardoOchoa.pdf)
 
