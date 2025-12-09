@@ -354,7 +354,7 @@
 
    ### ⚠️ Verificación 
 
-   <img width="450" height="333" alt="image" src="https://github.com/user-attachments/assets/1865aeac-769a-460c-b36a-3c79a6d5d80f" />
+   <img width="539" height="450" alt="image" src="https://github.com/user-attachments/assets/1865aeac-769a-460c-b36a-3c79a6d5d80f" />
 
 
 
