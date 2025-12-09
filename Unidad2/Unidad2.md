@@ -376,12 +376,11 @@
 ### 🧰 APE - Aprendizaje Práctico Experimental
 - 🗂️ [Juegos de Aprendizaje Práctico Experimental](Experimental.md)
 
-- APE1. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
-   - 🗂️ [APE 1.](APE1.pdf)
-- APE2. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
+- APE1. Aplicación de estructuras condicionales en la resolución de problemas
+   - 🗂️ [APE 1.](APE1RicardoOchoa.pdf)
+- APE2. Aplicación de estructuras repetitivas en la resolución de problemas
    - 🗂️ [APE 2.](APE2.pdf)
-- Debugging Challenge: “Cazadores de Bugs” 
-   - 🗂️ [Cazadores de bugs](Bugs.pdf)
+
 
 ### 🧰 AA - Aprendizaje Autónomo 
 - AA 1. Diferencias entre los tipos de estructuras condicionales
