@@ -35,12 +35,12 @@
   -  [2]	S.	Alvarez,	«Pseudocódigo,»	Desarrolloweb.com,	p. https://desarrolloweb.com/articulos/pseudocodigo.html, 29 10 2024.
   -  [3]	A. Robleadano, «Qué es pseudocódigo y por qué es esencial en programación,» OpenWebinars, pp. https://openwebinars.net/blog/que-es-                                  pseudocodigo/#qu%C3%A9-es- el-pseudoc%C3%B3digo, 18 06 2020.
   -  [4]	T.	Asana,	«¿Qué	es	un	diagrama de	flujo y	cómo	hacerlo?,»	Asana,	pp. https://asana.com/es/resources/what-is-a-flowchart, 17 02 2025.
-  -  [5] 	geeksforgeeks, «C if, else if ladder,» geeksforgeeks, Noida, 2022.
-  -  [6] 	geeksforgeeks, «C if else Statement,» geeksforgeeks, Noida, 2022.
-  -  [7] 	geeksforgeeks, «C - if Statement,» geeksforgeeks, Noida , 2022.
-  -  [8] 	geeksforgeeks, «C while Statement,» geeksforgeeks, Noida, 2022.
-  -  [9] 	geeksforgeeks, «C do while ladder,» geeksforgeeks, Noida, 2022.
-  -  [10] 	geeksforgeeks, «C - for Statement,» geeksforgeeks, Noida, 2022.
+  -  [5] 	geeksforgeeks, «C if, else if ladder,» geeksforgeeks, Noida, 2022. 	Geeks. pp. https://www.geeksforgeeks.org/c/c-if-else-if-ladder/
+  -  [6] 	geeksforgeeks, «C if else Statement,» geeksforgeeks, Noida, 2022.	Geeks. pp. https://www.geeksforgeeks.org/c/c-if-else-statement/
+  -  [7] 	geeksforgeeks, «C - if Statement,» geeksforgeeks, Noida , 2022.	Geeks. pp. https://www.geeksforgeeks.org/c/c-if-statement/
+  -  [8] 	geeksforgeeks, «C while Statement,» geeksforgeeks, Noida, 2022. Geeks. pp. https://www.geeksforgeeks.org/c/c-while-loop/, 
+  -  [9] 	geeksforgeeks, «C do while ladder,» geeksforgeeks, Noida, 2022. Geeks. pp. https://www.geeksforgeeks.org/c/c-do-while-loop/
+  -  [10] 	geeksforgeeks, «C - for Statement,» geeksforgeeks, Noida, 2022.	Geeks. pp. https://www.geeksforgeeks.org/c/c-for-loop/
 
   
 
