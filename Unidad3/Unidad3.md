@@ -10,7 +10,6 @@
 
 * ✅ Concepto de "Divide y Vencerás"
 * 🧩 Definición y uso de Funciones/Módulos
-* 🔄 Paso de parámetros y retorno de valores
 
 ### 🔹 Estructuras de Datos Estáticas
 
@@ -24,7 +23,49 @@
 ## 🧩 Temas Principales
 C
 📊 Arreglos Unidimensionales (Vectores)
-📝 Definición: Estructura de datos estática que almacena una secuencia de elementos del mismo tipo. 🧾 Se organizan contiguamente en la memoria bajo un único nombre. ✅ Funcionamiento: Como una fila de casilleros numerados. Para encontrar un dato, solo necesitas saber el número (índice). 💡 Uso: Agrupar datos relacionados (como calificaciones) sin declarar una variable para cada uno.
+📝 Estructura de datos estática que almacena una secuencia de elementos del mismo tipo. 
+🧾 Se organizan contiguamente en la memoria bajo un único nombre. 
+✅ Funcionamiento: Como una fila de casilleros numerados. Para encontrar un dato, solo necesitas saber el número (índice). 
+💡 Uso: Agrupar datos relacionados (como calificaciones) sin declarar una variable para cada uno.
+
+# Programación Modular
+
+## 📦 Conceptos básicos de programación modular
+
+La **programación modular** es una metodología que consiste en dividir un programa grande en partes más pequeñas llamadas **módulos**.  
+Cada módulo se encarga de una tarea específica y funciona de manera independiente.
+
+Este enfoque permite que el código sea más claro, organizado y fácil de mantener, evitando programas largos y difíciles de entender.
+
+La idea principal es que cada módulo:
+- Tenga una única responsabilidad
+- Pueda reutilizarse en otros programas
+- Pueda modificarse sin afectar todo el sistema
+
+---
+
+## 🧩 Uso de módulos y funciones en la resolución de problemas
+
+Una **función** es un bloque de código que realiza una tarea concreta y puede ser reutilizado varias veces dentro del programa.  
+Un **módulo** agrupa funciones relacionadas que trabajan sobre un mismo objetivo.
+
+Al resolver un problema mediante módulos y funciones:
+- El problema se divide en partes pequeñas
+- Cada parte se resuelve de forma independiente
+- El programa final es más fácil de entender y depurar
+
+Este enfoque mejora la lógica del programa y permite desarrollar sistemas más grandes sin aumentar la complejidad.
+
+---
+
+## 🛠️ Ventajas de la programación modular
+
+- Mejora la organización del código
+- Facilita el mantenimiento y la corrección de errores
+- Permite reutilizar funciones en otros proyectos
+- Reduce la complejidad de programas grandes
+- Facilita el trabajo en equipo
+
 
 Estructura básica:
 
@@ -46,7 +87,10 @@ int edades[10]; // Arreglo de 10 enteros
 
 
 ⬛ Arreglos Bidimensionales (Matrices)
-📝 Definición: Estructura que organiza datos en dos dimensiones: filas y columnas. 🧾 Conocidos comúnmente como matrices o tablas. 🔀 Funcionamiento: Similar a una hoja de cálculo o una sala de cine (Fila F, Asiento 5). 💡 Uso: Ideales para tableros de juego, mapas o relaciones matemáticas.
+📝 Estructura que organiza datos en dos dimensiones: filas y columnas. 
+🧾 Conocidos comúnmente como matrices o tablas. 
+🔀 Funcionamiento: Similar a una hoja de cálculo o una sala de cine (Fila F, Asiento 5). 
+💡 Uso: Ideales para tableros de juego, mapas o relaciones matemáticas.
 
 Estructura básica:
 
@@ -67,7 +111,9 @@ int tablero[3][3];
 <img width="1624" height="911" alt="image" src="https://github.com/user-attachments/assets/0d64fe6c-77be-445f-a008-b7dda726b18a" />
 
 📦 Arreglos Multidimensionales
-✅ Definición: Arreglos con tres o más dimensiones. ☑️ Es una extensión lógica de las matrices. 💡 Analogía: Si una matriz es una hoja, un arreglo 3D es un libro (muchas hojas), o un edificio.
+✅ : Arreglos con tres o más dimensiones. 
+☑️ Es una extensión lógica de las matrices. 
+💡 Analogía: Si una matriz es una hoja, un arreglo 3D es un libro (muchas hojas), o un edificio.
 
 Estructura básica:
 
@@ -88,7 +134,9 @@ int cubo[3][3][3];
 <img width="1019" height="880" alt="image" src="https://github.com/user-attachments/assets/c2628068-5253-4180-9eec-5dbad6c0a28d" />
 
 🔤 Cadenas o Strings
-✅ Definición: En C, es un arreglo de caracteres (char) diseñado para almacenar texto. ☑️ No existe un tipo primitivo "String", es un arreglo especial. 💡 Funcionamiento: Es como un collar de cuentas (letras) que siempre termina con un "nudo" especial invisible: el carácter nulo \0.
+✅ En C, es un arreglo de caracteres (char) diseñado para almacenar texto. 
+☑️ No existe un tipo primitivo "String", es un arreglo especial. 
+💡 Funcionamiento: Es como un collar de cuentas (letras) que siempre termina con un "nudo" especial invisible: el carácter nulo \0.
 
 Estructura básica:
 
@@ -102,22 +150,16 @@ char saludo[] = "Hola";
 
 🗂️ Cuidado: No se pueden asignar con = después de la declaración.
 
-🧠 Diagrama de Flujo
-
 📌 Codigo en C
 
-🧩 Ejercicio en Java
-📌 Proyecto: Sistema de Gestión de Notas Estudiantiles 🎓. Realicé un pequeño sistema de gestión de notas estudiantiles en Java. El programa utiliza Programación Modular para separar la lógica. Utiliza un arreglo unidimensional para los nombres de los alumnos y una matriz para sus calificaciones. El sistema calcula el promedio automáticamente pasando los arreglos como parámetros.
 
-🧠 Diagrama de Flujo
-
-📌 Codigo en Java
-
-⚠️ Verificación
 ⚠️ Principales Dificultades
-✔️ Indices (Off-by-one): Mi mayor dificultad es olvidar que los arreglos inician en 0. ✔️ Visualización: Me cuesta visualizar arreglos de más de 2 dimensiones. ✔️ Parámetros: A veces confundo el paso por valor y por referencia.
+✔️ Indices (Off-by-one): Mi mayor dificultad es olvidar que los arreglos inician en 0. 
+✔️ Me cuesta visualizar arreglos de más de 2 dimensiones.
+✔️  A veces confundo el paso por valor y por referencia.
 
 🌀 Reflexión crítica
 🗂️ La transición a estructuras de datos y modularidad marca un antes y un después en mi lógica. Entiendo que dividir un problema en funciones hace que sea más fácil de resolver y mantener. Reconozco que dominar los arreglos es fundamental para bases de datos futuras. Necesito practicar más el 'dibujar' el problema en papel antes de codificar.
+
 
 
