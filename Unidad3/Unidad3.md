@@ -203,10 +203,8 @@ char saludo[] = "Hola";
 
 
 ## 🧰 AA - Aprendizaje Autónomo 
-- AA 1. Diferencias entre los tipos de estructuras condicionales
+- AA 1. Curso Fundamentos de Python 1. Computación UNL
    - 🗂️ [Tarea 1](Tarea1RicardoMathiasOchoaArmijos.pdf)
-- AA 2. Cuadro comparativo entre las estructuras repetitivas
-   - 🗂️ [Tarea 2](Tarea2RicardoOchoa.pdf)
 
 [Portafolio](portafolio.md)
 
