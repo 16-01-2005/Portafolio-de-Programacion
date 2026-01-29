@@ -96,7 +96,7 @@ int edades[10]; // Arreglo de 10 enteros
 
 <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/5aa179ad-1f4d-4b17-99f5-bf311209ae72" />
 
-
+---
 ### ⬛ Arreglos Bidimensionales (Matrices)
 📝 Estructura que organiza datos en dos dimensiones: filas y columnas. 
 🧾 Conocidos comúnmente como matrices o tablas. 
@@ -123,6 +123,8 @@ int tablero[3][3];
 
 <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/0d64fe6c-77be-445f-a008-b7dda726b18a" />
 
+---
+
 ### 📦 Arreglos Multidimensionales
 ✅ : Arreglos con tres o más dimensiones. 
 ☑️ Es una extensión lógica de las matrices. 
@@ -148,6 +150,8 @@ int cubo[3][3][3];
 
 <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/c2628068-5253-4180-9eec-5dbad6c0a28d" />
 
+---
+
 ### 🔤 Cadenas o Strings
 ✅ En C, es un arreglo de caracteres (char) diseñado para almacenar texto. 
 ☑️ No existe un tipo primitivo "String", es un arreglo especial. 
@@ -168,6 +172,8 @@ char saludo[] = "Hola";
 📌 Codigo en C
 
 <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/4badd846-7804-44eb-a797-3bbba5e04ce9" />
+
+---
 
 ### ⚠️ Principales Dificultades
 
