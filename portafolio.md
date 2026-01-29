@@ -23,7 +23,23 @@
 ---
 
 ## 🧠 **Conclusiones**  
+### ✅ Conclusiones – UNIDAD 1
 
+>La Unidad 1 permitió comprender las bases esenciales de la programación, estableciendo los cimientos necesarios para el desarrollo de cualquier sistema informático. A través del estudio de los conceptos básicos, tipos de datos, algoritmos y estructuras iniciales, se logró entender cómo se representan y manipulan los datos dentro de un programa.
+
+>Además, el análisis de algoritmos ayudó a desarrollar un pensamiento lógico y ordenado, fundamental para resolver problemas de manera eficiente. Esta unidad demostró que una correcta definición de datos y pasos lógicos es clave para evitar errores y garantizar programas funcionales y comprensibles.
+
+### ✅ Conclusiones – UNIDAD 2
+
+>En la Unidad 2 se profundizó en el control del flujo de ejecución de los programas mediante estructuras condicionales y repetitivas. Estas estructuras permiten que un programa tome decisiones y repita acciones según determinadas condiciones, haciendo posible la creación de soluciones más dinámicas y adaptables.
+
+>El uso adecuado de estructuras condicionales mejora la toma de decisiones dentro del algoritmo, mientras que las estructuras repetitivas optimizan el código al evitar repeticiones innecesarias. Esta unidad reforzó la importancia de diseñar algoritmos claros y eficientes para resolver problemas reales de forma automatizada.
+
+### ✅ Conclusiones – UNIDAD 3
+
+> La Unidad 3 consolidó los conocimientos adquiridos mediante el diseño estructurado y la optimización de programas. Se comprendió que no solo es importante que un programa funcione, sino que también sea eficiente, legible y fácil de mantener.
+
+> El enfoque en la optimización permitió identificar mejoras en el uso de recursos, reducción de código redundante y aplicación de buenas prácticas de programación. Esta unidad fortaleció una visión más profesional del desarrollo de software, orientada a crear programas escalables, organizados y preparados para crecer o modificarse en el futuro.
 
 ---
 
