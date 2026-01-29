@@ -22,24 +22,7 @@
 ---
 
 ## 🧩 Temas Principales
-
-### 📦 Programación Modular: Conceptos y Uso
-
-📝 **El if es una estructura condicional simple.**
-🧾 La programación modular es una técnica de diseño de software que divide un programa grande en bloques independientes llamados módulos o funciones.
-✅ **Analogía:** Funciona como una **fábrica de automóviles**: en lugar de que una sola persona construya todo el coche, hay departamentos especializados (módulos) que se encargan del motor, las ruedas y la pintura.
-💡 **Nota:** La programación modular permite reutilizar código, facilitar la lectura y simplificar el mantenimiento.
-        
-🗂️ Abstracción: Permite concentrarse en qué hace una función sin preocuparse por cómo lo hace.
-
-📎 Reutilización: Escribes el código una vez y lo llamas cuantas veces quieras.
-
-📌 Mantenibilidad: Si hay un error, solo corriges el módulo afectado.
-
-🧠 Diagrama de Flujo
-
-📌 Codigo en C
-
+C
 📊 Arreglos Unidimensionales (Vectores)
 📝 Definición: Estructura de datos estática que almacena una secuencia de elementos del mismo tipo. 🧾 Se organizan contiguamente en la memoria bajo un único nombre. ✅ Funcionamiento: Como una fila de casilleros numerados. Para encontrar un dato, solo necesitas saber el número (índice). 💡 Uso: Agrupar datos relacionados (como calificaciones) sin declarar una variable para cada uno.
 
@@ -56,8 +39,11 @@ int edades[10]; // Arreglo de 10 enteros
 📌 Tamaño Fijo: El tamaño se define al compilar y no puede cambiar.
 
 🧠 Diagrama de Flujo
+<img width="1118" height="911" alt="image" src="https://github.com/user-attachments/assets/9923907a-9f0c-449c-bf74-ce64fa6cc483" />
 
 📌 Codigo en C
+<img width="1178" height="735" alt="image" src="https://github.com/user-attachments/assets/5aa179ad-1f4d-4b17-99f5-bf311209ae72" />
+
 
 ⬛ Arreglos Bidimensionales (Matrices)
 📝 Definición: Estructura que organiza datos en dos dimensiones: filas y columnas. 🧾 Conocidos comúnmente como matrices o tablas. 🔀 Funcionamiento: Similar a una hoja de cálculo o una sala de cine (Fila F, Asiento 5). 💡 Uso: Ideales para tableros de juego, mapas o relaciones matemáticas.
@@ -75,8 +61,10 @@ int tablero[3][3];
 📖 Recorrido: Usualmente requiere dos ciclos for anidados.
 
 🧠 Diagrama de Flujo
+<img width="843" height="911" alt="image" src="https://github.com/user-attachments/assets/8cfa3680-3cf7-4f96-8844-1b4e87cd61ff" />
 
 📌 Codigo en C
+<img width="1624" height="911" alt="image" src="https://github.com/user-attachments/assets/0d64fe6c-77be-445f-a008-b7dda726b18a" />
 
 📦 Arreglos Multidimensionales
 ✅ Definición: Arreglos con tres o más dimensiones. ☑️ Es una extensión lógica de las matrices. 💡 Analogía: Si una matriz es una hoja, un arreglo 3D es un libro (muchas hojas), o un edificio.
@@ -94,8 +82,10 @@ int cubo[3][3][3];
 🗂️ Requiere alta abstracción lógica.
 
 🧠 Diagrama de Flujo
+<img width="1272" height="907" alt="image" src="https://github.com/user-attachments/assets/0e096622-4aa1-4079-ac3c-462c9029a771" />
 
 📌 Codigo en C
+<img width="1019" height="880" alt="image" src="https://github.com/user-attachments/assets/c2628068-5253-4180-9eec-5dbad6c0a28d" />
 
 🔤 Cadenas o Strings
 ✅ Definición: En C, es un arreglo de caracteres (char) diseñado para almacenar texto. ☑️ No existe un tipo primitivo "String", es un arreglo especial. 💡 Funcionamiento: Es como un collar de cuentas (letras) que siempre termina con un "nudo" especial invisible: el carácter nulo \0.
