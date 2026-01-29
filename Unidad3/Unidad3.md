@@ -190,9 +190,10 @@ char saludo[] = "Hola";
 
 ## ⚙️ACD - Aprendizaje Contacto con el Docente
 
-- ACD Control de aprendizaje sobre modularidad y estructura de datos.
-
-   -🔗 [ACD →](ACD.md)
+- ACD 2. Control de aprendizaje sobre python
+   -🔗 [ACD 2](ACD2.md)
+- ACD 3. Control de aprendizaje sobre modularidad y estructura de datos.
+   -🔗 [ACD 3](ACD3.md)
 
 ## 🧰 APE - Aprendizaje Práctico Experimental
 
