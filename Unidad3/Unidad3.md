@@ -204,7 +204,7 @@ char saludo[] = "Hola";
 
 ## 🧰 AA - Aprendizaje Autónomo 
 - AA 1. Curso Fundamentos de Python 1. Computación UNL
-   - 🗂️ [Tarea 1](Tarea1RicardoMathiasOchoaArmijos.pdf)
+   - 🗂️ [Tarea 1](Python_Essentials_1_certificate_ricardo-ochoa-unl-edu-ec_f202b6e2-a485-4f87-a2b9-81b814eae487.pdf)
 
 [Portafolio](portafolio.md)
 
