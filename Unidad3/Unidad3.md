@@ -161,12 +161,13 @@ char saludo[] = "Hola";
 <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/4badd846-7804-44eb-a797-3bbba5e04ce9" />
 
 ⚠️ Principales Dificultades
+**
 ✔️ Mi mayor dificultad es olvidar que los arreglos inician en 0. 
 
 ✔️ Me cuesta visualizar arreglos de más de 2 dimensiones.
 
 ✔️  A veces confundo el paso por valor y por referencia.
-
+**
 🌀 Reflexión crítica
 
 🗂️ La transición a estructuras de datos y modularidad marca un antes y un después en mi lógica. Entiendo que dividir un problema en funciones hace que sea más fácil de resolver y mantener. Reconozco que dominar los arreglos es fundamental para bases de datos futuras. Necesito practicar más el 'dibujar' el problema en papel antes de codificar.
