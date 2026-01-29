@@ -188,4 +188,7 @@ char saludo[] = "Hola";
 > *🗂️ La transición a estructuras de datos y modularidad marca un antes y un después en mi lógica. Entiendo que dividir un problema en funciones hace que sea más fácil de resolver y mantener. Reconozco que dominar los arreglos es fundamental para bases de datos futuras. Necesito practicar más el 'dibujar' el problema en papel antes de codificar.*
 
 
+ACD 
+[Ver contenido de ACD →](Unidad3/ACD.md)
+
 
