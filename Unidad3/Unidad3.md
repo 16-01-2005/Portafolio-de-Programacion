@@ -190,6 +190,7 @@ char saludo[] = "Hola";
 
 ## ⚙️ACD - Aprendizaje Contacto con el Docente
 
+- ACD 1. Proyecto Académico Integrador
 - ACD 2. Control de aprendizaje sobre python
    - 🔗 [ACD 2](ACD2.md)
 - ACD 3. Control de aprendizaje sobre modularidad y estructura de datos.
@@ -197,10 +198,8 @@ char saludo[] = "Hola";
 
 ## 🧰 APE - Aprendizaje Práctico Experimental
 
-- APE1. Aplicación de estructuras condicionales en la resolución de problemas
+- APE 1. Construcción de funciones y procedimientos en un lenguaje de programación
    - 🗂️ [APE 1.](APE1RicardoOchoa.pdf)
-- APE2. Aplicación de estructuras repetitivas en la resolución de problemas
-   - 🗂️ [APE 2.](APE2RicardoOchoa.pdf)
 
 
 ## 🧰 AA - Aprendizaje Autónomo 
