@@ -22,11 +22,11 @@
 
 ## 🧩 Temas Principales
 C
-📊 Arreglos Unidimensionales (Vectores)
-📝 Estructura de datos estática que almacena una secuencia de elementos del mismo tipo. 
-🧾 Se organizan contiguamente en la memoria bajo un único nombre. 
-✅ Funcionamiento: Como una fila de casilleros numerados. Para encontrar un dato, solo necesitas saber el número (índice). 
-💡 Uso: Agrupar datos relacionados (como calificaciones) sin declarar una variable para cada uno.
+>📊 Arreglos Unidimensionales (Vectores)
+>📝 Estructura de datos estática que almacena una secuencia de elementos del mismo tipo. 
+>🧾 Se organizan contiguamente en la memoria bajo un único nombre. 
+>✅ Funcionamiento: Como una fila de casilleros numerados. Para encontrar un dato, solo necesitas saber el número (índice). 
+>💡 Uso: Agrupar datos relacionados (como calificaciones) sin declarar una variable para cada uno.
 
 # Programación Modular
 
