@@ -1,6 +1,6 @@
 # 📘 Unidad 3: Programación Modular y Estructuras de Datos Estáticas
 
-> 📚 **Descripción:** Comprender la importancia de dividir problemas complejos en subproblemas más pequeños (módulos) y manejar colecciones de datos del mismo tipo de manera eficiente en memoria.
+> 📚 **Descripción:** Comprender la importancia de dividir problemas complejos en subproblemas más pequeños (módulos) y manejar colecciones de datos del mismo tipo de manera eficiente en memoria.*
 
 ---
 
@@ -68,7 +68,16 @@ Este enfoque mejora la lógica del programa y permite desarrollar sistemas más 
 
 
 Estructura básica:
+### 📊 Arreglos Unidimensionales (Vectores)
 
+> **Definición:** Un vector es una estructura de datos **estática** que almacena una colección finita de elementos del mismo tipo (homogéneos) en posiciones de memoria **contiguas**.
+
+#### 🧠 Concepto Lógico
+Imagina un vector como una fila de casilleros numerados en un banco.
+1.  **Nombre Único:** Toda la fila se llama igual (ej. `Calificaciones`).
+2.  **Índice:** Para abrir un casillero específico, necesitas su número (posición).
+3.  **Contenido:** Dentro de cada casillero hay un dato (valor).
+   
 C
 int edades[10]; // Arreglo de 10 enteros
 ✅ Características:
@@ -88,7 +97,7 @@ int edades[10]; // Arreglo de 10 enteros
 <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/5aa179ad-1f4d-4b17-99f5-bf311209ae72" />
 
 
-⬛ Arreglos Bidimensionales (Matrices)
+### ⬛ Arreglos Bidimensionales (Matrices)
 📝 Estructura que organiza datos en dos dimensiones: filas y columnas. 
 🧾 Conocidos comúnmente como matrices o tablas. 
 🔀 Funcionamiento: Similar a una hoja de cálculo o una sala de cine (Fila F, Asiento 5). 
@@ -114,7 +123,7 @@ int tablero[3][3];
 
 <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/0d64fe6c-77be-445f-a008-b7dda726b18a" />
 
-📦 Arreglos Multidimensionales
+### 📦 Arreglos Multidimensionales
 ✅ : Arreglos con tres o más dimensiones. 
 ☑️ Es una extensión lógica de las matrices. 
 💡 Analogía: Si una matriz es una hoja, un arreglo 3D es un libro (muchas hojas), o un edificio.
@@ -139,7 +148,7 @@ int cubo[3][3][3];
 
 <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/c2628068-5253-4180-9eec-5dbad6c0a28d" />
 
-🔤 Cadenas o Strings
+### 🔤 Cadenas o Strings
 ✅ En C, es un arreglo de caracteres (char) diseñado para almacenar texto. 
 ☑️ No existe un tipo primitivo "String", es un arreglo especial. 
 💡 Funcionamiento: Es como un collar de cuentas (letras) que siempre termina con un "nudo" especial invisible: el carácter nulo \0.
@@ -160,7 +169,7 @@ char saludo[] = "Hola";
 
 <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/4badd846-7804-44eb-a797-3bbba5e04ce9" />
 
-⚠️ Principales Dificultades
+### ⚠️ Principales Dificultades
 
 > ✔️ Mi mayor dificultad es olvidar que los arreglos inician en 0. 
 
@@ -168,9 +177,9 @@ char saludo[] = "Hola";
 
 > ✔️  A veces confundo el paso por valor y por referencia.
 > 
-🌀 Reflexión crítica
+### 🌀 Reflexión crítica
 
-🗂️ La transición a estructuras de datos y modularidad marca un antes y un después en mi lógica. Entiendo que dividir un problema en funciones hace que sea más fácil de resolver y mantener. Reconozco que dominar los arreglos es fundamental para bases de datos futuras. Necesito practicar más el 'dibujar' el problema en papel antes de codificar.
+> *🗂️ La transición a estructuras de datos y modularidad marca un antes y un después en mi lógica. Entiendo que dividir un problema en funciones hace que sea más fácil de resolver y mantener. Reconozco que dominar los arreglos es fundamental para bases de datos futuras. Necesito practicar más el 'dibujar' el problema en papel antes de codificar.*
 
 
 
