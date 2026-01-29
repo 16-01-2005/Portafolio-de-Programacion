@@ -8,8 +8,8 @@
 
 ### 📦 Programación Modular
 
-* ✅ Concepto de "Divide y Vencerás"
-* 🧩 Definición y uso de Funciones/Módulos
+* ✅Conceptos básicos de programación modular.
+* 🧩Uso de módulos y funciones en la resolución de problemas.
 
 ### 🔹 Estructuras de Datos Estáticas
 
