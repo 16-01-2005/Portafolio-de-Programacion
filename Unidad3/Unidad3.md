@@ -80,9 +80,11 @@ int edades[10]; // Arreglo de 10 enteros
 📌 Tamaño Fijo: El tamaño se define al compilar y no puede cambiar.
 
 🧠 Diagrama de Flujo
+
 <img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/9923907a-9f0c-449c-bf74-ce64fa6cc483" />
 
 📌 Codigo en C
+
 <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/5aa179ad-1f4d-4b17-99f5-bf311209ae72" />
 
 
@@ -105,9 +107,11 @@ int tablero[3][3];
 📖 Recorrido: Usualmente requiere dos ciclos for anidados.
 
 🧠 Diagrama de Flujo
+
 <img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/8cfa3680-3cf7-4f96-8844-1b4e87cd61ff" />
 
 📌 Codigo en C
+
 <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/0d64fe6c-77be-445f-a008-b7dda726b18a" />
 
 📦 Arreglos Multidimensionales
@@ -128,9 +132,11 @@ int cubo[3][3][3];
 🗂️ Requiere alta abstracción lógica.
 
 🧠 Diagrama de Flujo
+
 <img width="507" height="333" alt="image" src="https://github.com/user-attachments/assets/0e096622-4aa1-4079-ac3c-462c9029a771" />
 
 📌 Codigo en C
+
 <img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/c2628068-5253-4180-9eec-5dbad6c0a28d" />
 
 🔤 Cadenas o Strings
@@ -152,6 +158,7 @@ char saludo[] = "Hola";
 
 📌 Codigo en C
 
+<img width="459" height="257" alt="image" src="https://github.com/user-attachments/assets/4badd846-7804-44eb-a797-3bbba5e04ce9" />
 
 ⚠️ Principales Dificultades
 ✔️ Indices (Off-by-one): Mi mayor dificultad es olvidar que los arreglos inician en 0. 
